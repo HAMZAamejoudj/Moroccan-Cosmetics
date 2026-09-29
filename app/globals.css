@@ -125,9 +125,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .reveal-on-scroll {
+  opacity: 1;
+  transform: none;
+  transition: opacity 0.7s ease, transform 0.7s ease;
+}
+
+html.js-enabled .reveal-on-scroll {
   opacity: 0;
   transform: translateY(24px);
-  transition: opacity 0.7s ease, transform 0.7s ease;
 }
 
 .reveal-on-scroll.is-visible {
@@ -421,4 +426,11 @@ h1, h2, h3, h4, h5, h6 {
 
 .blog-mid-cta .blog-cta-btn {
   margin-top: 0;
+}
+
+/* No-JS / before hydration: do not hide main content (framer-motion opacity:0) */
+html:not(.js-enabled) main,
+html:not(.js-enabled) main * {
+  opacity: 1 !important;
+  transform: none !important;
 }

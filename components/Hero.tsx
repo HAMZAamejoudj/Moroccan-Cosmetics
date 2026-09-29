@@ -30,7 +30,7 @@ const Hero = () => {
       </div>
       <div className="hero-gradient__content max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full">
         <motion.div
-          initial={{ opacity: 0, y: 16 }}
+          initial={false}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.7 }}
           className="max-w-md sm:max-w-lg md:max-w-[30rem] rounded-2xl border border-white/15 bg-[#06142B]/60 backdrop-blur-md shadow-2xl shadow-black/30 p-6 sm:p-7 md:p-8 space-y-4 sm:space-y-5"

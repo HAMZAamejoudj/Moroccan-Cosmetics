@@ -16,7 +16,9 @@ In **Project → Settings → Domains**:
 1. Set **`moroccan-cosmetics.com`** as the **primary** domain (not `www`).
 2. Add **`www.moroccan-cosmetics.com`** and choose **Redirect to** `moroccan-cosmetics.com` (Vercel UI), in addition to `vercel.json`.
 
-If apex redirects to www (308 to `www.…`), CSS/assets and canonical/hreflang break — fix primary domain first, then redeploy.
+If apex redirects to www (308 to `www.…`) while `vercel.json` sends www → apex, **`/_next/` CSS/JS redirect in a loop** and the site looks unstyled. Fix in **Vercel → Settings → Domains**: primary **`moroccan-cosmetics.com`**, **`www` redirects to apex** (remove apex→www). Then redeploy.
+
+**cPanel:** upload full `out/` including **`_next/`** (underscore). Do **not** use the old `.htaccess` rule that rewrote `/_next/` to `/next-assets/` unless you ran `npm run build:cpanel` and uploaded `next-assets/` too.
 
 `vercel.json` (in repo root) already defines:
 

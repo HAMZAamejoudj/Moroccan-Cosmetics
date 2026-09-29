@@ -9,7 +9,6 @@ import ProductCatalogSlider from '@/components/ProductCatalogSlider';
 import ContactCTA from '@/components/ContactCTA';
 import HomeProcess from '@/components/HomeProcess';
 import PromoModal from '@/components/PromoModal';
-import { motion } from 'framer-motion';
 import { useTranslations } from 'next-intl';
 import { Link } from '@/i18n/navigation';
 import { Boxes, Tags, ArrowRight } from 'lucide-react';
@@ -30,12 +29,7 @@ export default function HomeClient({ latestGuides = [] }: HomeClientProps) {
       <Hero />
       <TrustMarquee />
 
-      <motion.div
-        initial={{ opacity: 0 }}
-        whileInView={{ opacity: 1 }}
-        transition={{ duration: 1 }}
-        viewport={{ once: true }}
-      >
+      <div>
         <Mission />
         <ProductGrid />
         <ProductCatalogSlider />
@@ -99,7 +93,7 @@ export default function HomeClient({ latestGuides = [] }: HomeClientProps) {
         )}
 
         <ContactCTA />
-      </motion.div>
+      </div>
 
       <PromoModal />
     </div>

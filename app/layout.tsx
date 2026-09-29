@@ -26,6 +26,11 @@ export default function RootLayout({ children }: { children: ReactNode }) {
       suppressHydrationWarning
     >
       <body className="font-sans antialiased" suppressHydrationWarning>
+        <script
+          dangerouslySetInnerHTML={{
+            __html: 'document.documentElement.classList.add("js-enabled");',
+          }}
+        />
         {children}
       </body>
     </html>
