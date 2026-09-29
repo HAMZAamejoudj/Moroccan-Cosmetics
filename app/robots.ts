@@ -4,15 +4,10 @@ export const dynamic = 'force-static';
 
 const SITEMAP = 'https://moroccan-cosmetics.com/sitemap.xml';
 
-const PUBLIC_ALLOW = {
-  allow: '/',
-  disallow: ['/api/', '/_next/'],
-} as const;
-
 export default function robots(): MetadataRoute.Robots {
   return {
     rules: [
-      { userAgent: '*', ...PUBLIC_ALLOW },
+      { userAgent: '*', allow: '/', disallow: ['/api/', '/_next/'] },
       { userAgent: 'Googlebot', allow: '/' },
       { userAgent: 'Bingbot', allow: '/' },
       { userAgent: 'GPTBot', allow: '/' },
