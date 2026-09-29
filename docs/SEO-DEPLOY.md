@@ -14,9 +14,16 @@
 In **Project → Settings → Domains**:
 
 1. Set **`moroccan-cosmetics.com`** as the **primary** domain (not `www`).
-2. Add **`www.moroccan-cosmetics.com`** and enable redirect to apex (or rely on `vercel.json`).
+2. Add **`www.moroccan-cosmetics.com`** and choose **Redirect to** `moroccan-cosmetics.com` (Vercel UI), in addition to `vercel.json`.
 
-If apex redirects to www (308 to `www.…`), Seobility and Google see the wrong host — fix primary domain first.
+If apex redirects to www (308 to `www.…`), CSS/assets and canonical/hreflang break — fix primary domain first, then redeploy.
+
+`vercel.json` (in repo root) already defines:
+
+- `www.moroccan-cosmetics.com/*` → `https://moroccan-cosmetics.com/*` (301)
+- `/` → `/en/` (301)
+
+Apache/cPanel: use `public/.htaccess` copied into `out/` on build.
 
 ## After each deploy
 

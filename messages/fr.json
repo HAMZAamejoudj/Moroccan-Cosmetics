@@ -23,12 +23,8 @@
     "ctaQuote": "Demander un Devis"
   },
   "HomeTrustBar": {
-    "ariaLabel": "Certifications et avantages grossiste",
-    "certified": "Certifié",
-    "shipping": "Expédition mondiale",
-    "crueltyFree": "Sans cruauté · Vegan",
-    "moq": "MOQ flexible",
-    "organic": "Bio"
+    "ariaLabel": "Expédition et service",
+    "shipping": "Expédition mondiale"
   },
   "Home": {
     "metadata": {
@@ -175,23 +171,6 @@
     "logistics": "Partenaires Logistiques",
     "payment": "Moyens de Paiement",
     "description": "Fabricant de cosmétiques marocains et fournisseur de produits de beauté. Nous proposons des solutions d'exportation B2B en gros, en vrac et en marque blanche avec une qualité naturelle et des normes mondiales."
-  },
-  "Keywords": {
-    "manufacturer": "fabricant",
-    "cosmetics": "cosmétiques",
-    "moroccan": "marocain",
-    "beauty": "beauté",
-    "wholesale": "vente en gros",
-    "supplier": "fournisseur",
-    "exporter": "exportateur",
-    "factory": "usine",
-    "privateLabel": "marque blanche",
-    "skincare": "soins de la peau",
-    "natural": "naturel",
-    "organic": "bio",
-    "bulk": "vrac",
-    "b2b": "b2b",
-    "argan": "argan"
   },
   "About": {
     "metadata": {

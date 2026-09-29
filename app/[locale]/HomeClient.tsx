@@ -2,7 +2,6 @@
 
 import Hero from '@/components/Hero';
 import TrustMarquee from '@/components/TrustMarquee';
-import KeywordsMarquee from '@/components/KeywordsMarquee';
 import Mission from '@/components/Mission';
 import WhyChooseUs from '@/components/WhyChooseUs';
 import ProductGrid from '@/components/ProductGrid';
@@ -91,6 +90,7 @@ export default function HomeClient({ latestGuides = [] }: HomeClientProps) {
                     post={post}
                     imagePath={imagePath}
                     priorityImage={index === 0}
+                    headingLevel="h3"
                   />
                 ))}
               </div>
@@ -99,8 +99,6 @@ export default function HomeClient({ latestGuides = [] }: HomeClientProps) {
         )}
 
         <ContactCTA />
-
-        <KeywordsMarquee />
       </motion.div>
 
       <PromoModal />

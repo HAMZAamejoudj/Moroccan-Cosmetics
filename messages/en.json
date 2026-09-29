@@ -23,17 +23,13 @@
     "ctaQuote": "Request a Quote"
   },
   "HomeTrustBar": {
-    "ariaLabel": "Certifications and wholesale benefits",
-    "certified": "Certified",
-    "shipping": "Worldwide Shipping",
-    "crueltyFree": "Cruelty-Free · Vegan",
-    "moq": "Low MOQ Available",
-    "organic": "Organic"
+    "ariaLabel": "Shipping and service",
+    "shipping": "Worldwide Shipping"
   },
   "Home": {
     "metadata": {
       "title": "Moroccan Cosmetics Manufacturer | Wholesale and Private Label",
-      "description": "Moroccan manufacturer of argan oil, black soap, rhassoul clay and rose water. Bulk supply and private label with COA, MSDS and worldwide shipping. Get a quote."
+      "description": "Moroccan manufacturer of argan oil, black soap, rhassoul clay and rose water. Wholesale, bulk and private label for beauty brands, with worldwide shipping."
     }
   },
   "HomeWays": {
@@ -175,23 +171,6 @@
     "logistics": "Logistics Partners",
     "payment": "Payment Methods",
     "description": "Moroccan cosmetics manufacturer and beauty products supplier. We offer wholesale, bulk, and private label B2B export solutions with natural quality and global standards."
-  },
-  "Keywords": {
-    "manufacturer": "moroccan cosmetics manufacturer",
-    "cosmetics": "moroccan cosmetics wholesale",
-    "moroccan": "moroccan beauty products wholesale",
-    "beauty": "private label moroccan cosmetics",
-    "wholesale": "bulk argan oil supplier",
-    "supplier": "rhassoul clay wholesale",
-    "exporter": "moroccan black soap bulk",
-    "factory": "prickly pear seed oil supplier",
-    "privateLabel": "moroccan rose water bulk",
-    "skincare": "organic moroccan skincare",
-    "natural": "hammam products wholesale",
-    "organic": "argan oil private label",
-    "bulk": "morocco cosmetics exporter",
-    "b2b": "B2B beauty Morocco",
-    "argan": "savon beldi wholesale"
   },
   "About": {
     "metadata": {

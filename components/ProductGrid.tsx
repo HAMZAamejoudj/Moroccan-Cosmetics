@@ -45,9 +45,9 @@ const ProductGrid = () => {
                 />
               </div>
               <div className="px-5 pb-6 pt-4 flex flex-col flex-grow text-center border-t border-gray-100">
-                <h3 className="text-base font-bold text-[#1a1a1a] mb-3 leading-snug min-h-[3rem]">
+                <p className="text-base font-bold text-[#1a1a1a] mb-3 leading-snug min-h-[3rem]">
                   {t(`${id}.name`)}
-                </h3>
+                </p>
                 <p className="text-sm text-[#4b5563] leading-relaxed flex-grow">
                   {t(`${id}.desc`)}
                 </p>

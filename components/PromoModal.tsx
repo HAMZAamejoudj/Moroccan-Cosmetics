@@ -47,10 +47,12 @@ const PromoModal = () => {
             className="relative bg-[#0f1a34] rounded-[32px] p-8 w-full max-w-[420px] text-white shadow-2xl overflow-hidden"
           >
             <button
+              type="button"
               onClick={closeFooter}
+              aria-label="Close"
               className="absolute top-4 right-4 bg-white/10 hover:bg-white/20 p-2 rounded-full transition-colors text-white"
             >
-              <X size={20} />
+              <X size={20} aria-hidden />
             </button>
 
             <span className="inline-block text-[10px] font-bold tracking-[0.2em] uppercase text-[#FF9F68] mb-4">
@@ -67,9 +69,9 @@ const PromoModal = () => {
               />
             </div>
 
-            <h3 className="text-2xl font-serif font-bold mb-3 leading-tight">
+            <p className="text-2xl font-serif font-bold mb-3 leading-tight">
               Premium Moroccan Cosmetic Products
-            </h3>
+            </p>
             
             <p className="text-sm text-white/80 leading-relaxed mb-8">
               Discover Moroccan Beauty Products crafted for private label and wholesale programs.
@@ -80,9 +82,10 @@ const PromoModal = () => {
               href={siteConfig.whatsappUrl}
               target="_blank"
               rel="noopener noreferrer"
+              aria-label="Chat on WhatsApp"
               className="flex items-center justify-center gap-2 bg-[#25D366] hover:bg-[#20bd5a] text-white py-4 px-6 rounded-full font-bold transition-all hover:scale-[1.02] shadow-lg shadow-[#25D366]/20"
             >
-              <MessageCircle size={20} />
+              <MessageCircle size={20} aria-hidden />
               Chat on WhatsApp
             </a>
           </motion.div>

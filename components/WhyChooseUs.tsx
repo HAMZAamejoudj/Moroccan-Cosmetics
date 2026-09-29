@@ -91,9 +91,9 @@ const WhyChooseUs = () => {
               <div className="w-14 h-14 lg:w-12 lg:h-12 rounded-full flex items-center justify-center mx-auto mb-4 bg-gradient-to-br from-sunrise/20 to-teal/20 border border-black/5 text-sunrise shrink-0 [&_svg]:w-7 [&_svg]:h-7 lg:[&_svg]:w-6 lg:[&_svg]:h-6">
                 {reason.icon}
               </div>
-              <h3 className="text-lg lg:text-base font-serif font-bold mb-2 text-sunrise min-h-[2.75rem] lg:min-h-[2.5rem] flex items-center justify-center leading-snug">
+              <p className="text-lg lg:text-base font-serif font-bold mb-2 text-sunrise min-h-[2.75rem] lg:min-h-[2.5rem] flex items-center justify-center leading-snug">
                 {reason.title}
-              </h3>
+              </p>
               <p className="text-sm text-muted leading-relaxed flex-grow">
                 {reason.description}
               </p>

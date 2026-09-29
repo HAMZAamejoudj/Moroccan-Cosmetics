@@ -24,7 +24,7 @@ const Footer = () => {
             >
               <Image
                 src="/logo.webp"
-                alt="Moroccan Cosmetic Products"
+                alt="Moroccan Cosmetics - home"
                 width={220}
                 height={80}
                 className="h-11 md:h-14 w-auto rounded-sm"
@@ -43,25 +43,28 @@ const Footer = () => {
                 href="https://www.instagram.com/moroccanorganic/" 
                 target="_blank" 
                 rel="noopener noreferrer"
+                aria-label="Instagram"
                 className="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center hover:bg-sunrise transition-all hover:scale-110 text-white"
               >
-                <FaInstagram size={18} />
+                <FaInstagram size={18} aria-hidden />
               </a>
               <a 
                 href="https://www.facebook.com/moroccanorganica/" 
                 target="_blank" 
                 rel="noopener noreferrer"
+                aria-label="Facebook"
                 className="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center hover:bg-sunrise transition-all hover:scale-110 text-white"
               >
-                <FaFacebookF size={16} />
+                <FaFacebookF size={16} aria-hidden />
               </a>
               <a 
                 href="https://www.tiktok.com/@moroccanbeauty_shop" 
                 target="_blank" 
                 rel="noopener noreferrer"
+                aria-label="TikTok"
                 className="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center hover:bg-sunrise transition-all hover:scale-110 text-white"
               >
-                <FaTiktok size={16} />
+                <FaTiktok size={16} aria-hidden />
               </a>
             </div>
           </div>
@@ -73,7 +76,7 @@ const Footer = () => {
 
           {/* Contact Column */}
           <div className="lg:col-span-1 flex flex-col items-center lg:items-start text-center lg:text-left">
-            <h3 className="text-xl font-serif font-bold mb-8 text-sunrise w-full">{t('contact')}</h3>
+            <p className="text-xl font-serif font-bold mb-8 text-sunrise w-full">{t('contact')}</p>
             <ul className="space-y-6">
               <li className="flex items-start gap-4 text-sm text-muted-light">
                 <MapPin className="text-sunrise flex-shrink-0" size={20} />

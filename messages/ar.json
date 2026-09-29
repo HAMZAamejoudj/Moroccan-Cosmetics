@@ -23,12 +23,8 @@
     "ctaQuote": "طلب عرض سعر"
   },
   "HomeTrustBar": {
-    "ariaLabel": "الشهادات ومزايا الجملة",
-    "certified": "معتمد",
-    "shipping": "شحن عالمي",
-    "crueltyFree": "خالٍ من التجارب · نباتي",
-    "moq": "حد أدنى مرن",
-    "organic": "عضوي"
+    "ariaLabel": "الشحن والخدمة",
+    "shipping": "شحن عالمي"
   },
   "Home": {
     "metadata": {
@@ -175,23 +171,6 @@
     "logistics": "شركاء الخدمات اللوجستية",
     "payment": "طرق الدفع",
     "description": "مصنع مغربي لمستحضرات التجميل ومورد لمنتجات الجمال. نقدم حلول تصدير B2B بالجملة والعلامات الخاصة بجودة طبيعية ومعايير عالمية."
-  },
-  "Keywords": {
-    "manufacturer": "مصنع",
-    "cosmetics": "مستحضرات تجميل",
-    "moroccan": "مغربي",
-    "beauty": "جمال",
-    "wholesale": "جملة",
-    "supplier": "مورد",
-    "exporter": "مصدر",
-    "factory": "معمل",
-    "privateLabel": "علامة خاصة",
-    "skincare": "عناية بالبشرة",
-    "natural": "طبيعي",
-    "organic": "عضوي",
-    "bulk": "كميات كبيرة",
-    "b2b": "B2B",
-    "argan": "أركان"
   },
   "About": {
     "metadata": {

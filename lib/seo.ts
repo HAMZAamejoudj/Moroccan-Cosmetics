@@ -102,6 +102,7 @@ export function buildPageMetadata(input: {
   });
 
   return {
+    metadataBase: new URL(SITE_ORIGIN),
     title: input.titleAbsolute ? { absolute: input.title } : input.title,
     description: input.description,
     alternates,

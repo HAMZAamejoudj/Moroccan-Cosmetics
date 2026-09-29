@@ -39,7 +39,7 @@ export default function BlogPostCard({
         <div className="relative w-full md:w-1/2 aspect-video md:aspect-auto overflow-hidden bg-soft-white shrink-0">
           <Image
             src={imageSrc}
-            alt=""
+            alt={post.title}
             fill
             sizes="(max-width: 768px) 100vw, 50vw"
             className="object-cover object-center group-hover:scale-105 transition-transform duration-700"
@@ -92,7 +92,7 @@ export default function BlogPostCard({
       >
         <Image
           src={imageSrc}
-          alt=""
+          alt={post.title}
           fill
           sizes="(max-width: 768px) 100vw, 33vw"
           className="object-cover object-center group-hover:scale-105 transition-transform duration-700"

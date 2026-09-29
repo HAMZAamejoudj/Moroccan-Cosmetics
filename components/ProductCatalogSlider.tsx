@@ -124,9 +124,9 @@ const ProductCatalogSlider = () => {
                         <span className="text-[10px] font-semibold uppercase tracking-widest text-gray-400 mb-2">
                           {t('category')}
                         </span>
-                        <h3 className="text-sm md:text-base font-bold text-[#166534] leading-snug line-clamp-2 flex-grow">
+                        <p className="text-sm md:text-base font-bold text-[#166534] leading-snug line-clamp-2 flex-grow">
                           {item.names[locale] ?? item.names.en}
-                        </h3>
+                        </p>
                         <Link
                           href="/quote"
                           className="mt-4 self-end w-9 h-9 rounded-full bg-[#2EC4B6] text-white flex items-center justify-center hover:scale-105 transition-transform shrink-0"

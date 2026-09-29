@@ -76,10 +76,10 @@ const Navbar = () => {
         <div className="flex items-center justify-between h-16 md:h-18" dir="ltr">
           {/* Logo */}
           <div className="flex-shrink-0 flex items-center">
-            <Link href="/" className="flex items-center">
+            <Link href="/" className="flex items-center" aria-label="Moroccan Cosmetics - home">
               <Image 
                 src="/logo.webp" 
-                alt="Moroccan Cosmetic Products" 
+                alt="Moroccan Cosmetics - home" 
                 width={220} 
                 height={80} 
                 className="h-11 md:h-14 w-auto rounded-sm"
@@ -106,7 +106,10 @@ const Navbar = () => {
             {/* Language Switcher */}
             <div className="relative">
               <button 
+                type="button"
                 onClick={() => setLangMenuOpen(!langMenuOpen)}
+                aria-label="Change language"
+                aria-expanded={langMenuOpen}
                 className="flex items-center gap-2 px-3 py-2 rounded-full border border-sand hover:border-sunrise transition-all text-sm font-medium text-deep-navy bg-white"
               >
                 <currentLang.Flag className="w-5 h-auto rounded-sm shadow-sm" />
@@ -149,17 +152,22 @@ const Navbar = () => {
           <div className="md:hidden flex items-center gap-2 sm:gap-4">
              {/* Simple Mobile Lang Switch */}
              <button 
+              type="button"
               onClick={() => handleLocaleChange(locale === 'ar' ? 'en' : locale === 'en' ? 'fr' : 'ar')}
+              aria-label="Change language"
               className="p-1 rounded-lg border border-sand flex items-center gap-1.5 pr-2 bg-white/50"
             >
               <currentLang.Flag className="w-5 h-auto rounded-sm" />
               <span className="text-[10px] font-bold uppercase">{locale}</span>
             </button>
             <button
+              type="button"
               onClick={() => setIsOpen(!isOpen)}
+              aria-label={isOpen ? 'Close menu' : 'Open menu'}
+              aria-expanded={isOpen}
               className="text-deep-navy hover:text-teal p-2 transition-colors"
             >
-              {isOpen ? <X size={24} /> : <Menu size={24} />}
+              {isOpen ? <X size={24} aria-hidden /> : <Menu size={24} aria-hidden />}
             </button>
           </div>
         </div>
