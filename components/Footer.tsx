@@ -4,13 +4,44 @@ import Image from 'next/image';
 import { Mail, Phone, MapPin } from 'lucide-react';
 import { FaInstagram, FaFacebookF, FaTiktok } from 'react-icons/fa';
 import Partners from './Partners';
-import { useTranslations } from 'next-intl';
+import { useLocale, useTranslations } from 'next-intl';
 import { Link } from '@/i18n/navigation';
+import { enOnlyAbsoluteHref, isEnOnlyPath } from '@/lib/enOnlyRoutes';
 import { siteConfig } from '@/lib/siteConfig';
+
+const footerLinkClass =
+  'text-muted-light hover:text-sunrise transition-colors text-sm';
 
 const Footer = () => {
   const t = useTranslations('Footer');
   const tNav = useTranslations('Navbar');
+  const locale = useLocale();
+
+  const footerLinks = [
+    { href: '/', label: tNav('home') },
+    { href: '/about-us', label: tNav('about') },
+    { href: '/benefits', label: tNav('benefits') },
+    { href: '/private-label', label: tNav('privateLabel') },
+    { href: '/blog', label: tNav('blog') },
+    { href: '/faq', label: tNav('faq') },
+    { href: '/contact', label: tNav('contact') },
+    { href: '/quote', label: tNav('requestQuote') },
+  ];
+
+  const renderFooterLink = (href: string, label: string) => {
+    if (locale !== 'en' && isEnOnlyPath(href)) {
+      return (
+        <a href={enOnlyAbsoluteHref(href)} className={footerLinkClass}>
+          {label}
+        </a>
+      );
+    }
+    return (
+      <Link href={href} className={footerLinkClass}>
+        {label}
+      </Link>
+    );
+  };
 
   return (
     <footer className="bg-deep-navy text-white pt-24 pb-12">
@@ -34,10 +65,15 @@ const Footer = () => {
             <p className="text-sm leading-relaxed text-muted-light">
               {t('description')}
             </p>
-            <nav aria-label="Footer" className="flex flex-wrap justify-center lg:justify-start gap-x-6 gap-y-2 text-sm">
-              <Link href="/benefits" className="text-muted-light hover:text-sunrise transition-colors">
-                {tNav('benefits')}
-              </Link>
+            <nav aria-label="Footer" className="w-full max-w-md lg:max-w-none">
+              <p className="text-sm font-semibold uppercase tracking-wider text-sunrise mb-3">
+                {t('siteLinks')}
+              </p>
+              <ul className="flex flex-wrap justify-center lg:justify-start gap-x-4 gap-y-2">
+                {footerLinks.map((link) => (
+                  <li key={link.href}>{renderFooterLink(link.href, link.label)}</li>
+                ))}
+              </ul>
             </nav>
             <div className="flex justify-center lg:justify-start space-x-5 rtl:space-x-reverse">
               <a 

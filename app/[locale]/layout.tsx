@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
+import WhatsAppFloat from "@/components/WhatsAppFloat";
 import GoogleAnalytics from "@/components/GoogleAnalytics";
 import DocumentLang from "@/components/DocumentLang";
 import {NextIntlClientProvider} from 'next-intl';
@@ -76,6 +77,7 @@ export default async function RootLayout({
         <Navbar />
         <main>{children}</main>
         <Footer />
+        <WhatsAppFloat />
       </NextIntlClientProvider>
       <GoogleAnalytics />
     </div>
