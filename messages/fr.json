@@ -20,11 +20,13 @@
     "trustMoq": "MOQ à partir de 50 unités",
     "trustShipping": "Expédition USA, UE, UK et GCC",
     "ctaCatalog": "Télécharger le Catalogue",
-    "ctaQuote": "Demander un Devis"
+    "ctaQuote": "Demander un Devis",
+    "heroImageAlt": "Produits cosmétiques marocains en gros : huile d'argan, savon noir et eau de rose"
   },
   "HomeTrustBar": {
     "ariaLabel": "Expédition et service",
-    "shipping": "Expédition mondiale"
+    "shipping": "Expédition mondiale",
+    "marketingClaims": []
   },
   "Home": {
     "metadata": {
@@ -58,7 +60,8 @@
     "prev": "Produits précédents",
     "next": "Produits suivants",
     "page": "Page",
-    "viewProduct": "Demander un devis"
+    "viewProduct": "Demander un devis",
+    "quoteProduct": "Demander un devis pour {product}"
   },
   "Partner": {
     "title": "Pourquoi devenir",

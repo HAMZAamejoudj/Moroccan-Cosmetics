@@ -20,11 +20,13 @@
     "trustMoq": "حد أدنى من 50 وحدة",
     "trustShipping": "شحن إلى USA، EU، UK و GCC",
     "ctaCatalog": "تحميل الكتالوج",
-    "ctaQuote": "طلب عرض سعر"
+    "ctaQuote": "طلب عرض سعر",
+    "heroImageAlt": "منتجات تجميل مغربية بالجملة: زيت الأركان، الصابون الأسود وماء الورد"
   },
   "HomeTrustBar": {
     "ariaLabel": "الشحن والخدمة",
-    "shipping": "شحن عالمي"
+    "shipping": "شحن عالمي",
+    "marketingClaims": []
   },
   "Home": {
     "metadata": {
@@ -58,7 +60,8 @@
     "prev": "المنتجات السابقة",
     "next": "المنتجات التالية",
     "page": "صفحة",
-    "viewProduct": "طلب عرض سعر"
+    "viewProduct": "طلب عرض سعر",
+    "quoteProduct": "طلب عرض سعر لـ {product}"
   },
   "Partner": {
     "title": "لماذا تختار الشراكة",

@@ -25,6 +25,8 @@ If apex redirects to www (308 to `www.…`), CSS/assets and canonical/hreflang b
 
 Apache/cPanel: use `public/.htaccess` copied into `out/` on build.
 
+**Vercel does not read `.htaccess`.** Redirects on Vercel come from **Project → Settings → Domains** and from **`vercel.json`** at the repo root. The `out/.htaccess` file is only for Apache/cPanel uploads.
+
 ## After each deploy
 
 Upload **`out/`** to cPanel **or** let Vercel build from Git. Build runs `patch-export-seo.mjs` automatically.

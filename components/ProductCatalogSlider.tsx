@@ -106,7 +106,9 @@ const ProductCatalogSlider = () => {
               >
                 {catalogSliderItems
                   .slice(pageIndex * perView, pageIndex * perView + perView)
-                  .map((item) => (
+                  .map((item) => {
+                    const productName = item.names[locale] ?? item.names.en;
+                    return (
                     <article
                       key={item.id}
                       className="rounded-[1.75rem] overflow-hidden shadow-md bg-white flex flex-col h-full"
@@ -130,13 +132,15 @@ const ProductCatalogSlider = () => {
                         <Link
                           href="/quote"
                           className="mt-4 self-end w-9 h-9 rounded-full bg-[#2EC4B6] text-white flex items-center justify-center hover:scale-105 transition-transform shrink-0"
-                          aria-label={t('viewProduct')}
+                          aria-label={t('quoteProduct', { product: productName })}
                         >
-                          <ArrowRight size={16} />
+                          <span className="sr-only">{t('quoteProduct', { product: productName })}</span>
+                          <ArrowRight size={16} aria-hidden />
                         </Link>
                       </div>
                     </article>
-                  ))}
+                  );
+                  })}
               </div>
             ))}
           </div>

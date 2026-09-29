@@ -20,15 +20,22 @@
     "trustMoq": "MOQ from 50 units",
     "trustShipping": "Shipping to USA, EU, UK and GCC",
     "ctaCatalog": "Download Catalog",
-    "ctaQuote": "Request a Quote"
+    "ctaQuote": "Request a Quote",
+    "heroImageAlt": "Moroccan wholesale cosmetic products including argan oil, black soap and rose water"
   },
   "HomeTrustBar": {
     "ariaLabel": "Shipping and service",
-    "shipping": "Worldwide Shipping"
+    "shipping": "Worldwide Shipping",
+    "marketingClaims": [
+      "Certified",
+      "Organic",
+      "Cruelty-Free · Vegan",
+      "Low MOQ Available"
+    ]
   },
   "Home": {
     "metadata": {
-      "title": "Moroccan Cosmetics Manufacturer | Wholesale and Private Label",
+      "title": "Moroccan Cosmetics Manufacturer | Wholesale & Private Label",
       "description": "Moroccan manufacturer of argan oil, black soap, rhassoul clay and rose water. Wholesale, bulk and private label for beauty brands, with worldwide shipping."
     }
   },
@@ -58,7 +65,8 @@
     "prev": "Previous products",
     "next": "Next products",
     "page": "Page",
-    "viewProduct": "Request a quote"
+    "viewProduct": "Request a quote",
+    "quoteProduct": "Request a quote for {product}"
   },
   "Partner": {
     "title": "Why Partner",

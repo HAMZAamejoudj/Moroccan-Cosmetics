@@ -18,10 +18,10 @@ const Hero = () => {
       id="home"
       className="hero-gradient text-white pt-28 pb-20 md:pt-36 md:pb-28 lg:pt-40 lg:pb-32 min-h-[min(92vh,820px)] flex items-center"
     >
-      <div className="hero-gradient__media" aria-hidden>
+      <div className="hero-gradient__media">
         <Image
           src={HERO_IMAGE}
-          alt=""
+          alt={t('heroImageAlt')}
           fill
           priority
           sizes="100vw"

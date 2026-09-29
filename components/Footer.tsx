@@ -20,6 +20,7 @@ const Footer = () => {
           <div className="space-y-8 lg:col-span-1 flex flex-col items-center lg:items-start text-center lg:text-left">
             <Link
               href="/"
+              aria-label="Moroccan Cosmetics - home"
               className="block lg:inline-block lg:-mt-5 mx-auto lg:mx-0 rounded-md bg-white px-4 py-2.5 shadow-sm ring-1 ring-white/10"
             >
               <Image
