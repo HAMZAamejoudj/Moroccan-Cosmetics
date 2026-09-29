@@ -7,25 +7,27 @@ export type BlogAuthorConfig = {
   photo: string;
 };
 
-/** Fill these before release — check:blog fails while any field is TODO. */
 const authors: Record<BlogContentLocale, BlogAuthorConfig> = {
   en: {
-    name: 'TODO',
-    role: 'TODO',
-    bio: 'TODO',
-    photo: 'TODO',
+    name: 'Moroccan Cosmetics',
+    role: 'Export & Private Label Team',
+    bio:
+      'We produce and export argan oil, prickly pear seed oil, black soap, rhassoul clay and rose water from Agadir, Morocco. Our blog helps B2B buyers, brands and distributors source with clear specs, documentation and realistic claims.',
+    photo: '/logo.webp',
   },
   fr: {
-    name: 'TODO',
-    role: 'TODO',
-    bio: 'TODO',
-    photo: 'TODO',
+    name: 'Moroccan Cosmetics',
+    role: 'Équipe export et marque blanche',
+    bio:
+      'Nous produisons et exportons huile d’argan, figue de barbarie, savon noir, rhassoul et eau de rose depuis Agadir. Ce blog aide les marques, distributeurs et acheteurs B2B à s’approvisionner avec des fiches claires et des allégations réalistes.',
+    photo: '/logo.webp',
   },
   ar: {
-    name: 'TODO',
-    role: 'TODO',
-    bio: 'TODO',
-    photo: 'TODO',
+    name: 'Moroccan Cosmetics',
+    role: 'فريق التصدير والعلامة الخاصة',
+    bio:
+      'ننتج ونصدّر زيت الأركان، التين الشوكي، الصابون البلدي، الرصول وماء الورد من أكادير. يقدّم المدوّنة إرشادات للعلامات التجارية والموزعين ومشتري الجملة للتوريد بوثائق واضحة وادعاءات واقعية.',
+    photo: '/logo.webp',
   },
 };
 
