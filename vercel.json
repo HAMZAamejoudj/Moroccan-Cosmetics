@@ -1,0 +1,16 @@
+{
+  "trailingSlash": true,
+  "redirects": [
+    {
+      "source": "/:path*",
+      "has": [{ "type": "host", "value": "www.moroccan-cosmetics.com" }],
+      "destination": "https://moroccan-cosmetics.com/:path*",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "destination": "/en/",
+      "permanent": true
+    }
+  ]
+}

@@ -25,20 +25,14 @@ Comme le site utilise des dossiers localisés (`/en`, `/fr`, `/ar`), vous devez 
 1. Dans le dossier `public_html`, vérifiez si un fichier nommé **`.htaccess`** existe. S'il n'existe pas, créez-le.
 2. Ajoutez le code suivant au début du fichier :
 
-```apache
-<IfModule mod_rewrite.c>
-  RewriteEngine On
-  
-  # Rediriger la racine vers /en par défaut
-  RewriteRule ^$ /en/ [L,R=301]
+Le fichier **`public/.htaccess`** est copié dans `out/` à chaque build (`patch-export-seo.mjs`). Il gère :
 
-  # Gérer les fichiers HTML sans extension (Optionnel mais recommandé)
-  RewriteCond %{REQUEST_FILENAME} !-f
-  RewriteCond %{REQUEST_FILENAME} !-d
-  RewriteCond %{REQUEST_FILENAME}.html -f
-  RewriteRule ^(.*)$ $1.html [L]
-</IfModule>
-```
+- HTTP → HTTPS (301)
+- `www.moroccan-cosmetics.com` → `moroccan-cosmetics.com` (301, chemin conservé)
+- `/` → `/en/` (301)
+- URLs localisées (`/en/contact/` → `en/contact/index.html`)
+
+**Important :** le sous-domaine `www` doit pointer vers le **même** `public_html` que le domaine apex. Sinon configure une redirection www dans cPanel (Domains → Redirects).
 
 ## Vérifications Finales
 - Accédez à votre domaine (ex: `https://votre-site.com`). Vous devriez être redirigé vers `/en/`.
