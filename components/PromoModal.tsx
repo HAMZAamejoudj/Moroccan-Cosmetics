@@ -2,7 +2,8 @@
 
 import { useState, useEffect } from 'react';
 import Image from 'next/image';
-import { X, MessageCircle } from 'lucide-react';
+import { X } from 'lucide-react';
+import { FaWhatsapp } from 'react-icons/fa';
 import { motion, AnimatePresence } from 'framer-motion';
 import { siteConfig } from '@/lib/siteConfig';
 
@@ -85,7 +86,7 @@ const PromoModal = () => {
               aria-label="Chat on WhatsApp"
               className="flex items-center justify-center gap-2 bg-[#25D366] hover:bg-[#20bd5a] text-white py-4 px-6 rounded-full font-bold transition-all hover:scale-[1.02] shadow-lg shadow-[#25D366]/20"
             >
-              <MessageCircle size={20} aria-hidden />
+              <FaWhatsapp className="h-5 w-5 shrink-0" aria-hidden />
               Chat on WhatsApp
             </a>
           </motion.div>
