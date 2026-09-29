@@ -1,0 +1,1112 @@
+{
+  "Navbar": {
+    "home": "Home",
+    "about": "About",
+    "benefits": "Benefits",
+    "privateLabel": "Private Label",
+    "blog": "Blog",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "requestQuote": "Request a Quote"
+  },
+  "Hero": {
+    "badge": "Moroccan Cosmetics Manufacturer",
+    "title": "Moroccan Cosmetics Wholesale",
+    "titleAccent": "Private Label Manufacturer",
+    "titleEnd": "",
+    "description": "Authentic argan oil, prickly pear seed oil, black soap, rhassoul clay and rose water — produced in Morocco and supplied in bulk or under your own brand to beauty brands, spas and distributors in 40+ countries.",
+    "trustCert": "EcoCert and USDA Organic",
+    "trustCoa": "COA and MSDS with every batch",
+    "trustMoq": "MOQ from 50 units",
+    "trustShipping": "Shipping to USA, EU, UK and GCC",
+    "ctaCatalog": "Download Catalog",
+    "ctaQuote": "Request a Quote"
+  },
+  "HomeTrustBar": {
+    "ariaLabel": "Certifications and wholesale benefits",
+    "certified": "Certified",
+    "shipping": "Worldwide Shipping",
+    "crueltyFree": "Cruelty-Free · Vegan",
+    "moq": "Low MOQ Available",
+    "organic": "Organic"
+  },
+  "Home": {
+    "metadata": {
+      "title": "Moroccan Cosmetics Manufacturer | Wholesale and Private Label",
+      "description": "Moroccan manufacturer of argan oil, black soap, rhassoul clay and rose water. Bulk supply and private label with COA, MSDS and worldwide shipping. Get a quote."
+    }
+  },
+  "HomeWays": {
+    "title": "Two Ways to",
+    "titleAccent": "Work With Us",
+    "wholesaleTitle": "Wholesale Bulk Supply",
+    "wholesaleDesc": "Raw oils and ingredients in bulk for formulators, manufacturers and distributors. Drums, jerrycans and bulk bags with full export documentation.",
+    "wholesaleLink": "Explore bulk supply",
+    "privateTitle": "Private Label Manufacturing",
+    "privateDesc": "Launch your own Moroccan skincare line. We fill, label and pack products under your brand, with low MOQs and design support.",
+    "privateLink": "Private label services"
+  },
+  "HomeProcess": {
+    "title": "Our Process in",
+    "titleAccent": "4 Steps",
+    "step1": "Send your request (products, quantities, destination).",
+    "step2": "Receive samples and a detailed quote.",
+    "step3": "Approve specifications, packaging and artwork.",
+    "step4": "Production, quality control and worldwide shipping."
+  },
+  "HomeCatalog": {
+    "badge": "Wholesale",
+    "title": "Trusted Moroccan beauty ingredients supplier",
+    "description": "We specialize in authentic Moroccan beauty — premium bulk argan oil and natural cosmetics with private label, export support and competitive pricing.",
+    "category": "General",
+    "prev": "Previous products",
+    "next": "Next products",
+    "page": "Page",
+    "viewProduct": "Request a quote"
+  },
+  "Partner": {
+    "title": "Why Partner",
+    "titleAccent": "with Us?",
+    "shippingTitle": "Global Shipping",
+    "shippingDesc": "We ship to countries around the world, ensuring that you get your products fast, no matter where you are located.",
+    "supportTitle": "Exceptional Customer Service",
+    "supportDesc": "Our team is always ready to assist with your orders, custom requests, and product inquiries.",
+    "fulfillmentTitle": "Fast and Reliable Fulfillment",
+    "fulfillmentDesc": "Get your products when you need them, with quick and reliable delivery times and quality assurance."
+  },
+  "Mission": {
+    "badge": "FACTORY DIRECT",
+    "title": "Direct From the Source",
+    "titleAccent": "No Middlemen",
+    "titleEnd": "",
+    "description": "We are a Moroccan cosmetics manufacturer based in Agadir. We work with partner cooperatives in the argan region and control every step: sourcing raw materials, pressing, quality testing, filling, labeling and export. That means consistent quality, full traceability and factory-direct wholesale prices for your business.",
+    "gmp": "Full traceability",
+    "iso": "Lab-tested batches",
+    "bulk": "In-house filling and labeling",
+    "private": "Export documentation",
+    "bulkSupply": "40+",
+    "bulkSub": "COUNTRIES",
+    "b2bExport": "Agadir",
+    "b2bSub": "MOROCCO"
+  },
+  "WhyChoose": {
+    "badge": "WHY BRANDS CHOOSE US",
+    "title": "Why Brands",
+    "titleAccent": "Choose Us",
+    "description": "B2B partners rely on us for verified quality, certified Moroccan ingredients and reliable export from Morocco to global markets.",
+    "qualityTitle": "Verified Quality",
+    "qualityDesc": "Every batch is lab-tested and shipped with a Certificate of Analysis (COA) and Material Safety Data Sheet (MSDS).",
+    "certTitle": "Certified Ingredients",
+    "certDesc": "ISO-certified processes with EcoCert and USDA Organic options on selected product lines.",
+    "moqTitle": "Flexible MOQs",
+    "moqDesc": "Private label from 50 units per SKU — accessible for new brands and growing beauty businesses.",
+    "exportTitle": "Export Expertise",
+    "exportDesc": "We prepare certificates of origin, invoices, packing lists and phytosanitary documents where required, with air or sea freight.",
+    "responseTitle": "Fast Response",
+    "responseDesc": "Quotes within 24 hours by email or WhatsApp from our export team."
+  },
+  "Products": {
+    "badge": "OUR RANGE",
+    "title": "BEST",
+    "titleAccent": "SELLERS",
+    "description": "Direct from the source in Morocco",
+    "inBulk": "in bulk",
+    "blackSeed": {
+      "name": "Organic black seed oil",
+      "desc": "Natural Moroccan black seed oil nourishes skin and hair."
+    },
+    "cyperus": {
+      "name": "Cyperus rotundus oil morocco",
+      "desc": "100% pure Cyperus rotundus (nut grass) oil."
+    },
+    "frankincense": {
+      "name": "Frankincense oil",
+      "desc": "Pure frankincense essential oil."
+    },
+    "akerFassi": {
+      "name": "Moroccan Aker Fassi Powder",
+      "desc": "Natural poppy and pomegranate powder for traditional skincare."
+    },
+    "roseWater": {
+      "name": "Organic Moroccan Rose Water – Pure Natural Floral Toner",
+      "desc": "Steam-distilled from Rosa Damascena. A natural toner that hydrates and soothes."
+    },
+    "arganCosmetic": {
+      "name": "Argan Oil 100% Organic Cold-Pressed - Pure",
+      "desc": "Authentic, unrefined organic argan oil direct from Morocco."
+    },
+    "arganCulinary": {
+      "name": "Organic Culinary Argan Oil of Morocco – 100% Pure Edible Argan Oil",
+      "desc": "Moroccan organic argan oil for cooking — pure, roasted and ideal for culinary use."
+    },
+    "nila": {
+      "name": "Moroccan Nila Powder – Natural Mask and Scrub",
+      "desc": "Pure Moroccan Nila powder for face masks and natural body scrubs."
+    },
+    "pricklyPear": {
+      "name": "Organic Prickly Pear Seeds Oil - Morocco",
+      "desc": "Organic prickly pear seed oil | Anti-aging | Anti-wrinkle."
+    },
+    "blackSoap": {
+      "name": "Organic Moroccan Black Soap (Savon Noir / Beldi Soap) – Wholesale Bulk",
+      "desc": "Traditional beldi soap from macerated olives. Exfoliates and deep-cleanses."
+    },
+    "ghassoul": {
+      "name": "Moroccan Ghassoul Clay Powder Brown - Green - Red",
+      "desc": "Pure Ghassoul clay from the Atlas Mountains, perfect for skincare and haircare."
+    },
+    "sidr": {
+      "name": "Moroccan Sidr Powder - Hair and Skin 100% Pure",
+      "desc": "Natural jujube leaf powder. A gentle alternative to shampoo."
+    }
+  },
+  "ContactCTA": {
+    "badge": "GET STARTED",
+    "title": "Ready to source authentic",
+    "titleAccent": "Moroccan cosmetics?",
+    "description": "Tell us what you need and receive a quote within 24 hours. Our team supports beauty brands, spas and distributors worldwide.",
+    "contactBtn": "Contact Us",
+    "quoteBtn": "Request a Quote"
+  },
+  "Footer": {
+    "contact": "Export Contact",
+    "facility": "Manufacturing Facility",
+    "location": "Industrial Zone, Morocco",
+    "logistics": "Logistics Partners",
+    "payment": "Payment Methods",
+    "description": "Moroccan cosmetics manufacturer and beauty products supplier. We offer wholesale, bulk, and private label B2B export solutions with natural quality and global standards."
+  },
+  "Keywords": {
+    "manufacturer": "moroccan cosmetics manufacturer",
+    "cosmetics": "moroccan cosmetics wholesale",
+    "moroccan": "moroccan beauty products wholesale",
+    "beauty": "private label moroccan cosmetics",
+    "wholesale": "bulk argan oil supplier",
+    "supplier": "rhassoul clay wholesale",
+    "exporter": "moroccan black soap bulk",
+    "factory": "prickly pear seed oil supplier",
+    "privateLabel": "moroccan rose water bulk",
+    "skincare": "organic moroccan skincare",
+    "natural": "hammam products wholesale",
+    "organic": "argan oil private label",
+    "bulk": "morocco cosmetics exporter",
+    "b2b": "B2B beauty Morocco",
+    "argan": "savon beldi wholesale"
+  },
+  "About": {
+    "metadata": {
+      "title": "About Us | Moroccan Cosmetics Manufacturer and Exporter",
+      "description": "Meet the Moroccan team behind our argan oil and natural cosmetics. Years of manufacturing, cooperative sourcing and export to 50+ countries from Agadir."
+    },
+    "hero": {
+      "title": "About Moroccan Cosmetics",
+      "titleAccent": "Manufacturer Exporter",
+      "titleEnd": "Since 2019"
+    },
+    "whoWeAre": {
+      "badge": "Professional and Transparent",
+      "title": "Who We Are",
+      "p1": "We are a Moroccan-based manufacturer and wholesale supplier specializing in organic beauty products. Located in Agadir, the heart of argan oil country, we work closely with women's cooperatives, eco-certified labs, and international partners to deliver pure, effective skincare ingredients to clients worldwide.",
+      "p2": "Our team combines local knowledge with global quality standards — from cooperative sourcing and cold pressing to filling, labeling and export-ready documentation."
+    },
+    "story": {
+      "badge": "Authentic and Human",
+      "title": "Our Story",
+      "p1": "We're more than just a supplier — we're storytellers of Moroccan heritage. From desert oils to Atlas botanicals, our products are crafted with care, tradition, and respect for nature.",
+      "p2": "Moroccan Cosmetics was founded in Agadir with a clear goal: give international brands direct access to authentic Moroccan beauty ingredients without the uncertainty of middlemen. What began as a small export operation has grown into a manufacturing partner for brands in 50+ countries."
+    },
+    "milestones": {
+      "badge": "Our Journey Through Time",
+      "title": "Milestones",
+      "m1Year": "2019",
+      "m1Title": "Founded in Marrakech",
+      "m1Desc": "Started with signature argan and botanical oils and a mission to bring authentic Moroccan beauty to the world.",
+      "m2Year": "2020",
+      "m2Title": "ECOCERT Organic Certification",
+      "m2Desc": "Achieved ECOCERT organic certification, validating our commitment to clean, sustainable beauty.",
+      "m3Year": "2021",
+      "m3Title": "Women's Cooperative Initiative",
+      "m3Desc": "Expanded fair-trade partnerships with women's cooperatives across the argan region.",
+      "m4Year": "2023",
+      "m4Title": "Sustainable Packaging",
+      "m4Desc": "Adopted sustainable packaging and eco-conscious production practices across product lines."
+    },
+    "facility": {
+      "badge": "Our Facility",
+      "title": "Manufacturing in Agadir",
+      "description": "Our production site in Agadir includes pressing, filtration, filling, labeling and climate-controlled storage. Every batch is traceable from cooperative to final bottle, with lab testing, COA and MSDS for B2B partners."
+    },
+    "cooperatives": {
+      "badge": "Social Impact",
+      "title": "Working With Women's Cooperatives",
+      "description": "Argan oil production is closely tied to women's cooperatives in southwestern Morocco. We partner with cooperatives in the Souss–Massa and argan biosphere region under fair, long-term agreements."
+    },
+    "core": {
+      "authenticity": "Authenticity",
+      "authenticityDesc": "100% Moroccan-origin ingredients, clearly documented.",
+      "transparency": "Transparency",
+      "transparencyDesc": "COA and MSDS for every batch, honest specifications.",
+      "sustainability": "Sustainability",
+      "sustainabilityDesc": "Responsible sourcing that respects the argan forest, a UNESCO biosphere reserve since 1998.",
+      "partnership": "Partnership",
+      "partnershipDesc": "We grow with our clients, from first sample to full-scale production."
+    },
+    "values": {
+      "badge": "Our Values",
+      "title": "What We Stand For",
+      "subtitle": "Trust, quality and long-term partnerships guide every order we ship.",
+      "quality": "Quality",
+      "qualityDesc": "Every batch is tested, certified, and traceable from source to shipment.",
+      "sustainability": "Sustainability",
+      "sustainabilityDesc": "Ethical sourcing, eco-packaging, and minimal environmental impact.",
+      "community": "Community",
+      "communityDesc": "Supporting local Moroccan cooperatives and fair trade practices.",
+      "globalReach": "Global Reach",
+      "globalReachDesc": "Shipping to 50+ countries with export-ready documentation."
+    },
+    "stats": {
+      "title": "By the Numbers",
+      "organic": "100% Organic Certified",
+      "countries": "50+ Countries Served",
+      "ingredients": "20+ Moroccan Ingredients",
+      "support": "24/7 Customer Support"
+    },
+    "faq": {
+      "badge": "Business FAQ",
+      "title": "Popular FAQs for Your Business",
+      "seeAll": "See all FAQs",
+      "q1": {
+        "question": "Are your products really 100% organic?",
+        "answer": "Yes. Our products are certified organic (Ecocert, USDA where applicable), lab-tested, and made with clean natural ingredients — no unnecessary chemicals or shortcuts."
+      },
+      "q2": {
+        "question": "Do you offer private label and custom branding?",
+        "answer": "Yes. We help you launch your own beauty brand with custom labels, packaging design, and full private label support from sample to production."
+      },
+      "q3": {
+        "question": "What is the minimum order for wholesale?",
+        "answer": "Our MOQs are flexible. Private label often starts at 50 units per SKU — suitable for new brands and growing businesses. Bulk ingredient orders can be discussed per product."
+      },
+      "q4": {
+        "question": "Do you ship internationally?",
+        "answer": "Yes. We ship worldwide with secure air or sea freight, export documentation, and delivery across the USA, Europe, GCC and other markets."
+      },
+      "q5": {
+        "question": "Can I order samples before buying in bulk?",
+        "answer": "Of course. We offer samples of argan oil, Aker Fassi, black soap, rose water and more so you can verify quality before a wholesale order."
+      },
+      "q6": {
+        "question": "Are your products cruelty-free and vegan?",
+        "answer": "Yes. We do not test on animals. Our ingredients are plant-based, ethically sourced and suitable for natural cosmetic lines."
+      },
+      "q7": {
+        "question": "Who do you work with?",
+        "answer": "We supply beauty brands, spas, hammams, salons, e-commerce stores and entrepreneurs building their own natural cosmetics lines."
+      },
+      "q8": {
+        "question": "How long does production and shipping take?",
+        "answer": "Many private label orders are ready in 5–10 business days after approval. International shipping typically takes 3–7 days by express or longer by sea freight depending on destination."
+      },
+      "q9": {
+        "question": "What makes your Moroccan products special?",
+        "answer": "They are made in Morocco using traditional know-how and pure ingredients, with traceability, organic certification and documentation trusted by B2B buyers worldwide."
+      },
+      "q10": {
+        "question": "Can I mix different products in one wholesale order?",
+        "answer": "Yes. You can combine argan oil, rose water, Aker Fassi, black soap, clays and more in a single order. We adapt to your product mix and quantities."
+      }
+    },
+    "cta": {
+      "badge": "Partner With Us",
+      "title": "Ready to source premium",
+      "titleAccent": "organic Moroccan cosmetics?",
+      "description": "Whether you need wholesale oils, private label or your first samples — our export team is ready to help.",
+      "btnContact": "Contact Us Today",
+      "btnQuote": "Request a Quote",
+      "visitNote": "Want to visit our facility or schedule a video call? Get in touch — we welcome serious B2B partners."
+    }
+  },
+  "Benefits": {
+    "metadata": {
+      "title": "Benefits of Natural Moroccan Skincare | Argan Oil, Black Soap, Ghassoul and More",
+      "description": "Explore the benefits of our premium Moroccan skincare products like Argan oil, prickly pear seed oil, black soap, Ghassoul, and more. Discover how these natural ingredients help nourish, rejuvenate, and hydrate your skin and hair for a radiant glow."
+    },
+    "hub": {
+      "metadata": {
+        "title": "Moroccan Beauty Ingredient Benefits: Argan, Clay and More",
+        "description": "Honest, research-based benefits of argan oil, prickly pear oil, black soap, rhassoul clay and rose water — and what brands can safely claim."
+      },
+      "breadcrumbHome": "Home",
+      "breadcrumbCurrent": "Benefits",
+      "heroImageAlt": "Moroccan beauty ingredients including argan oil, clay and rose water",
+      "title": "Benefits of Moroccan Beauty Ingredients",
+      "introP1": "Argan oil, rhassoul clay, black soap and rose water have been part of Moroccan beauty rituals for generations. Today they are also some of the most requested ingredients in natural skincare.",
+      "introP2Before": "We produce and export these ingredients, and we get asked the same question every week:",
+      "introP2Emphasis": "what do they really do?",
+      "introP2After": "This section answers it honestly. For each ingredient, we separate what research supports, what tradition suggests, and what is simply marketing — so you can use them well, and so brands can make claims they can defend.",
+      "evidenceTitle": "How We Write About Benefits",
+      "evidenceIntro": "Every benefit on our pages is labelled by the strength of the evidence behind it:",
+      "evidenceColLabel": "Label",
+      "evidenceColMeaning": "What it means",
+      "evidenceRow1Label": "Supported by studies",
+      "evidenceRow1Meaning": "Shown in human clinical studies or well-designed lab studies",
+      "evidenceRow2Label": "Traditional use",
+      "evidenceRow2Meaning": "Used for generations in Morocco; plausible, but not formally proven",
+      "evidenceRow3Label": "Not supported",
+      "evidenceRow3Meaning": "Popular claim with no good evidence — we tell you so",
+      "ingredientsTitle": "Explore the Ingredients",
+      "bestForLabel": "Best for:",
+      "guideComingSoon": "Guide coming soon",
+      "ingredients": {
+        "argan": {
+          "title": "Argan Oil",
+          "imageAlt": "Cosmetic argan oil wholesale",
+          "body": "The best-researched Moroccan ingredient. Studies support its ability to help skin retain moisture and improve elasticity, and to help protect color-treated hair. It does not make hair grow.",
+          "bestFor": "dry and mature skin, frizzy or color-treated hair.",
+          "readLink": "Read: Argan Oil Benefits",
+          "shopLink": "Shop: Argan Oil Wholesale"
+        },
+        "pricklyPear": {
+          "title": "Prickly Pear Seed Oil",
+          "imageAlt": "Prickly pear seed oil",
+          "body": "A light, fast-absorbing facial oil, naturally rich in vitamin E and linoleic acid. One of the most prized premium oils in natural skincare.",
+          "bestFor": "facial serums, normal to combination skin.",
+          "shopLink": "Shop: Prickly Pear Seed Oil Wholesale"
+        },
+        "blackSoap": {
+          "title": "Moroccan Black Soap (Savon Beldi)",
+          "imageAlt": "Moroccan black soap savon beldi",
+          "body": "A soft olive-based soap that prepares the skin for exfoliation with a kessa glove — the first step of the hammam ritual.",
+          "bestFor": "body care, spa and hammam treatments.",
+          "shopLink": "Shop: Black Soap Wholesale"
+        },
+        "rhassoul": {
+          "title": "Rhassoul (Ghassoul) Clay",
+          "imageAlt": "Rhassoul ghassoul clay",
+          "body": "A mineral clay from the Atlas Mountains, used to cleanse skin and hair and absorb excess oil without harsh detergents.",
+          "bestFor": "oily and combination skin, clay masks, natural hair washing.",
+          "shopLink": "Shop: Rhassoul Clay Wholesale"
+        },
+        "roseWater": {
+          "title": "Moroccan Rose Water",
+          "imageAlt": "Moroccan rose water bulk",
+          "body": "A gentle, refreshing floral water used as a toner or face mist and to mix clay masks.",
+          "bestFor": "daily toning, sensitive skin routines, mixing with rhassoul.",
+          "shopLink": "Shop: Rose Water Bulk"
+        },
+        "nila": {
+          "title": "Moroccan Nila Powder",
+          "imageAlt": "Blue nila powder from Morocco",
+          "body": "A vivid blue mineral powder used in traditional masks and hammam rituals. Benefits are rooted in Moroccan practice; clinical research is limited.",
+          "bestFor": "brightening masks, hammam lines, heritage and spa rituals.",
+          "shopLink": "Shop: Nila Powder Wholesale"
+        },
+        "akerFassi": {
+          "title": "Aker Fassi",
+          "imageAlt": "Aker Fassi red powder from Morocco",
+          "body": "A poppy-petal powder prized as a natural tint for lips and cheeks and in traditional beauty recipes. Evidence is mostly traditional rather than clinical.",
+          "bestFor": "lip and cheek color, natural makeup, niche heritage brands.",
+          "shopLink": "Shop: Aker Fassi Wholesale"
+        }
+      },
+      "brandsTitle": "For Brands: Benefits You Can Safely Claim",
+      "brandsP1": "Cosmetic claims are regulated. In the EU, claims must meet Regulation (EU) No 655/2013 — truthful, evidenced, and fair. In the US, wording like \"moisturizes dry skin\" is cosmetic; disease or hair-growth claims can cross into drug territory.",
+      "brandsP2": "Stick to benefits your formula and studies support: helping skin retain moisture, improving the look of elasticity, taming frizz, or cleansing without harsh detergents — not cures, medical outcomes, or guaranteed regrowth.",
+      "brandsP3Before": "Our ingredient guides spell out \"say this / not this\" examples so your labels stay defensible. When you are ready to source, we can support",
+      "brandsP3Link": "private label",
+      "brandsP3After": "programs with documentation aligned to your market.",
+      "matcherTitle": "Find the Right Ingredient for Your Need",
+      "matcherColNeed": "Your need",
+      "matcherColIngredient": "Best ingredient",
+      "matcherColWhy": "Why",
+      "matcherRows": {
+        "drySkin": {
+          "need": "Dry or mature skin",
+          "ingredient": "Argan oil",
+          "why": "Helps skin retain moisture (supported by studies)"
+        },
+        "lightOil": {
+          "need": "Light facial oil",
+          "ingredient": "Prickly pear seed oil",
+          "why": "Fast-absorbing, rich in vitamin E"
+        },
+        "oilySkin": {
+          "need": "Oily or combination skin",
+          "ingredient": "Rhassoul clay",
+          "why": "Cleanses and absorbs excess oil"
+        },
+        "frizzyHair": {
+          "need": "Frizzy or color-treated hair",
+          "ingredient": "Argan oil",
+          "why": "Tames frizz; helps protect dyed hair (lab studies)"
+        },
+        "hammam": {
+          "need": "Full hammam ritual",
+          "ingredient": "Black soap + kessa + rhassoul + argan oil",
+          "why": "The traditional step-by-step routine"
+        },
+        "toner": {
+          "need": "Refreshing toner",
+          "ingredient": "Rose water",
+          "why": "Gentle, suitable for daily use"
+        }
+      },
+      "faqTitle": "Frequently Asked Questions",
+      "faq": {
+        "q1": "Which Moroccan ingredient is best for dry skin?",
+        "a1": "Argan oil is the best-researched option: clinical studies show it helps skin retain moisture. Prickly pear seed oil is a lighter alternative for facial care.",
+        "q2": "Are Moroccan beauty products suitable for sensitive skin?",
+        "a2": "Pure, fragrance-free products are usually well tolerated. Products with added perfume are more likely to irritate. Always patch-test a new product first.",
+        "q3": "Can I use these benefits on my own product labels?",
+        "a3": "You can use cosmetic claims such as helps skin retain moisture or tames frizz, if you can support them. Medical claims such as cures eczema or makes hair grow are not allowed for cosmetics in the EU or the US.",
+        "q4": "What is the difference between Moroccan black soap and African black soap?",
+        "a4": "Moroccan black soap (savon beldi) is a soft, gel-like soap made from olive paste and olive oil, used in the hammam before exfoliation. African black soap comes from West Africa and is made with different ingredients, such as plant ashes and shea butter."
+      },
+      "ctaTitle": "Source These Ingredients for Your Brand",
+      "ctaQuote": "Request a Quote",
+      "ctaPrivateLabel": "See Private Label"
+    },
+    "hero": {
+      "badge": "Nature's Wisdom",
+      "title": "Discover the Amazing Benefits of",
+      "titleAccent": "Natural Moroccan",
+      "titleEnd": "Skincare",
+      "description": "Experience the power of organic beauty rituals passed down through generations."
+    },
+    "intro": {
+      "badge": "Benefits of Our Natural Products",
+      "title": "The Power of Pure Ingredients",
+      "description": "Discover the power of nature with our premium range of organic beauty and wellness products. Each product is carefully crafted to nourish, rejuvenate, and enhance your natural beauty. Here's how our collection of oils, soaps, masks, and more can benefit you."
+    },
+    "products": {
+      "perfectFor": "Perfect For",
+      "arganCosmetic": {
+        "title": "Cosmetic Argan Oil",
+        "subtitle": "Nourishing oil for skin and hair",
+        "benefit1": "Hydrates and moisturizes: Rich in vitamin E and fatty acids; helps dry skin feel softer and more comfortable.",
+        "benefit2": "Elasticity and comfort: Helps skin feel more supple; a good fit for mature-looking skin.",
+        "benefit3": "Natural glow: Leaves skin looking radiant and well cared for.",
+        "perfect": "All skin types, especially dry and mature skin."
+      },
+      "arganFood": {
+        "title": "Food-Grade Argan Oil",
+        "subtitle": "Culinary oil with a nutty character",
+        "benefit1": "Nutrient-rich: Packed with antioxidants and omega fatty acids.",
+        "benefit2": "Hair care: Can leave hair looking shinier and feeling softer on the lengths and ends.",
+        "benefit3": "Kitchen use: A traditional Moroccan culinary oil for dressings and dipping.",
+        "perfect": "Culinary use and occasional hair or body oiling."
+      },
+      "pricklyPear": {
+        "title": "Prickly Pear Seed Oil",
+        "subtitle": "Light premium facial oil",
+        "benefit1": "Antioxidant-rich: Helps protect the look of skin from everyday environmental stress.",
+        "benefit2": "Moisturizes and brightens: Leaves skin feeling hydrated with a fresh, even-looking tone.",
+        "benefit3": "Gentle feel: Lightweight texture suited to sensitive-feeling skin.",
+        "perfect": "Dry or mature-looking skin and daily facial care."
+      },
+      "nila": {
+        "title": "Nila Powder/Mask",
+        "subtitle": "Traditional beauty remedy",
+        "benefit1": "Deep cleanse: Helps lift surface impurities for a cleaner-feeling complexion.",
+        "benefit2": "Brightens skin: Helps even out the look of skin tone.",
+        "benefit3": "Gentle exfoliation: Removes dead skin cells for smoother-feeling skin.",
+        "perfect": "Dull or uneven-looking skin tones."
+      },
+      "akerFassi": {
+        "title": "Aker Fassi",
+        "subtitle": "Traditional Moroccan radiance",
+        "benefit1": "Texture and feel: Helps skin feel smoother and more supple.",
+        "benefit2": "Rich in vitamins: Nourishes the look of skin with essential nutrients.",
+        "benefit3": "Enhances complexion: Adds a natural-looking flush and even tone.",
+        "perfect": "Mature skin and uneven-looking skin tones."
+      },
+      "essentialOils": {
+        "title": "Essential Oils",
+        "subtitle": "Pure aroma for wellness",
+        "benefit1": "Aromatherapy: Pleasant aromas for relaxing rituals.",
+        "benefit2": "Skin nourishment: Helps skin feel soft and cared for in blended formulas.",
+        "benefit3": "Refreshing scent: Adds a bright note to body and home care blends.",
+        "perfect": "Aromatherapy, skin care, and general wellness."
+      },
+      "blackSoap": {
+        "title": "Black Soap",
+        "subtitle": "Deep cleanse for your skin",
+        "benefit1": "Deep cleanse: Lifts impurities and prepares skin for gentle exfoliation.",
+        "benefit2": "Softens and hydrates: Leaves skin feeling soft and smooth without stripping moisture.",
+        "benefit3": "Clarifying feel: Helps oily-prone skin feel clean and balanced.",
+        "perfect": "Oily or combination skin and full-body hammam care."
+      },
+      "naturalSoap": {
+        "title": "Natural Soap",
+        "subtitle": "Gentle and Nourishing",
+        "benefit1": "Natural Ingredients: Plant-based oils that nourish and hydrate.",
+        "benefit2": "Gentle: Free from harsh chemicals, perfect for sensitive skin.",
+        "benefit3": "Moisturizes While Cleansing: Does not dry out the skin.",
+        "perfect": "Sensitive skin, dry skin, and everyday use."
+      },
+      "ghassoul": {
+        "title": "Ghassoul Clay",
+        "subtitle": "The Moroccan Secret",
+        "benefit1": "Oil absorption: Helps absorb excess sebum and surface impurities.",
+        "benefit2": "Nourishing minerals: Leaves skin and hair feeling clean and soft.",
+        "benefit3": "Hair care: Cleanses the scalp and lengths without harsh detergents.",
+        "perfect": "Oily or combination skin and natural hair washing."
+      },
+      "kessa": {
+        "title": "Kessa Gloves",
+        "subtitle": "Traditional Exfoliation",
+        "benefit1": "Exfoliates: Removes dead skin cells for soft, smooth-feeling skin.",
+        "benefit2": "Hammam ritual: Works with black soap for a traditional body scrub.",
+        "benefit3": "Smoother feel: Prepares skin so oils absorb more evenly afterward.",
+        "perfect": "Regular exfoliation, body care, and improving skin texture."
+      },
+      "roseWater": {
+        "title": "Rose Water",
+        "subtitle": "Natural Toner and Refresher",
+        "benefit1": "Hydrating: Naturally refreshes skin, leaving it soft and dewy.",
+        "benefit2": "Balances pH: Helps balance skin's pH and works as a gentle toner.",
+        "benefit3": "Calms and Soothes: Ideal for sensitive or irritated skin.",
+        "perfect": "Sensitive skin, dry skin, and after cleansing."
+      }
+    },
+    "why": {
+      "title": "Why Choose Our Products?",
+      "natural": "100% Natural",
+      "naturalDesc": "Sourced from Morocco's rich botanical heritage, free from harmful chemicals.",
+      "cruelty": "Ethically Produced",
+      "crueltyDesc": "Made with respect for people, communities and the environment.",
+      "holistic": "Holistic Wellness",
+      "holisticDesc": "Combining ancient beauty traditions with modern care for overall well-being."
+    }
+  },
+  "PrivateLabel": {
+    "metadata": {
+      "title": "Private Label Natural Skincare Products | Argan Oil, Black Soap, Ghassoul and More",
+      "description": "Launch your own skincare brand with our premium private label natural products. From Argan oil and black soap to Ghassoul, prickly pear seed oil, and more, we offer high-quality skincare formulations for your business. Start your own private label skincare line today!"
+    },
+    "hero": {
+      "title": "Private Label Natural",
+      "titleAccent": "Skincare Products",
+      "titleEnd": "for Your Brand",
+      "description": "Your vision, our expertise. Launch your premium Moroccan beauty line with a partner you can trust."
+    },
+    "intro": {
+      "title": "Your Brand, Our Pure Ingredients",
+      "quote": "Launch your own skincare brand with our premium private label natural products. From Argan oil and black soap to Ghassoul, prickly pear seed oil, and more, we offer high-quality skincare formulations for your business."
+    },
+    "journey": {
+      "badge": "Step-by-Step",
+      "title": "The Private Label Journey",
+      "step1": {
+        "title": "Product Selection",
+        "desc": "Choose from our extensive range of premium Moroccan oils, clays, and soaps. We offer various grades and formulations tailored to your brand's needs."
+      },
+      "step2": {
+        "title": "Packaging and Design",
+        "desc": "Select from our curated collection of high-end bottles and jars. Our design team can help you create custom labels that reflect your brand identity."
+      },
+      "step3": {
+        "title": "Quality Production",
+        "desc": "Your products are manufactured in our state-of-the-art facility in Morocco, following strict international quality and hygiene standards."
+      },
+      "step4": {
+        "title": "Global Fulfillment",
+        "desc": "We handle the logistics. From our facility to your doorstep, we ensure safe and efficient shipping to partners worldwide."
+      }
+    },
+    "ready": {
+      "title": "Ready for Your Label",
+      "description": "We provide a comprehensive range of authentic Moroccan products ready to be customized for your brand. All our products are 100% natural and ethically sourced.",
+      "products": {
+        "argan": "Cosmetic Argan Oil",
+        "prickly": "Prickly Pear Seed Oil",
+        "soap": "Moroccan Black Soap",
+        "ghassoul": "Ghassoul Clay Mask",
+        "rose": "Rose Water Toner",
+        "aker": "Aker Fassi Powder",
+        "nila": "Nila Brightening Mask",
+        "essential": "Essential Oil Blends",
+        "naturalSoap": "Natural Plant Soaps",
+        "kessa": "Kessa Exfoliating Gloves"
+      }
+    },
+    "why": {
+      "title": "Why Partner with Us?",
+      "quality": {
+        "title": "Premium Quality",
+        "desc": "Pure, organic, and authentic ingredients directly from the source in Morocco."
+      },
+      "moq": {
+        "title": "Low MOQs",
+        "desc": "Flexible minimum order quantities to support brands of all sizes, from startups to enterprises."
+      },
+      "support": {
+        "title": "Full Support",
+        "desc": "From initial formulation to final delivery, our team is with you every step of the way."
+      }
+    },
+    "cta": {
+      "title": "Ready to Start Your",
+      "titleAccent": "Private Label",
+      "titleEnd": "Line?",
+      "description": "Contact our B2B team today to discuss your project requirements and receive a personalized quote.",
+      "btn": "Get a Free Consultation"
+    }
+  },
+  "Blog": {
+    "index": {
+      "title": "Guides for Beauty Brands Sourcing From Morocco",
+      "metaTitle": "Blog: Argan Oil Sourcing, Private Label and Regulations",
+      "metaDescription": "Practical guides for beauty brands and buyers: sourcing argan oil from Morocco, private label, EU and US rules, certifications and Moroccan ingredients.",
+      "intro": "Practical, honest guides for beauty brands, spas and buyers: how to source argan oil from Morocco, launch a private label line, understand EU and US rules, and choose the right Moroccan ingredients.",
+      "filterAll": "All guides",
+      "latestGuides": "Latest Guides",
+      "viewAllGuides": "View all guides →",
+      "ctaTitle": "Planning a private label line?",
+      "ctaPrivateLabel": "Private Label",
+      "ctaQuote": "Request a Quote"
+    },
+    "article": {
+      "breadcrumbHome": "Home",
+      "breadcrumbBlog": "Blog",
+      "onThisPage": "On this page",
+      "minRead": "{minutes} min read",
+      "readGuide": "Read the guide",
+      "relatedTitle": "Related guides",
+      "allGuides": "All guides →",
+      "authorCtaTitle": "Ready to source from Morocco?",
+      "authorCtaQuote": "Request a Quote",
+      "authorCtaPrivateLabel": "Private Label"
+    },
+    "categories": {
+      "Buying & Sourcing": "Buying and Sourcing",
+      "Private Label & Brand Building": "Private Label and Brand Building",
+      "Regulations & Certifications": "Regulations and Certifications",
+      "Ingredients & Rituals": "Ingredients and Rituals"
+    }
+  },
+  "FAQ": {
+    "metadata": {
+      "title": "FAQ | Wholesale and Private Label Moroccan Cosmetics",
+      "description": "Answers on MOQ, samples, pricing, payment, certifications, private label, lead times and shipping for Moroccan argan oil and cosmetics."
+    },
+    "hero": {
+      "title": "Frequently Asked",
+      "titleAccent": "Questions",
+      "description": "Short, direct answers on orders, private label, quality documents and shipping for buyers sourcing Moroccan cosmetics."
+    },
+    "sections": {
+      "ordersPricing": "Orders and Pricing",
+      "privateLabel": "Private Label",
+      "qualityCompliance": "Quality and Compliance",
+      "shipping": "Shipping"
+    },
+    "items": {
+      "moq": {
+        "question": "What is your minimum order quantity (MOQ)?",
+        "answer": "MOQ depends on the product, packaging and whether you order wholesale or private label. We confirm the minimum per SKU in your quote — there is no single MOQ for every line."
+      },
+      "samples": {
+        "question": "Do you send samples?",
+        "answer": "Yes. Request samples through our quote form. We confirm sample price, delivery time and whether the cost can be deducted from your first order."
+      },
+      "pricing": {
+        "question": "How are your prices calculated?",
+        "answer": "By product, grade, volume, packaging and Incoterm. Send your product list and quantities for an exact quote."
+      },
+      "payment": {
+        "question": "Which payment methods do you accept?",
+        "answer": "Bank transfer is standard. PayPal or Wise may be available on request. Deposit and balance terms are shown on your pro forma invoice."
+      },
+      "smallQty": {
+        "question": "Can I start with a small quantity?",
+        "answer": "Many brands start with ready-to-label private label lines. Custom packaging and custom formulas have higher minimums — we outline options in your quote."
+      },
+      "labels": {
+        "question": "Do you design labels?",
+        "answer": "We can adapt your artwork to label size and check INCI, batch number and net quantity. Ask what layout support is included when you request a quote."
+      },
+      "plLeadTime": {
+        "question": "How long does a private label order take?",
+        "answer": "Timing starts after artwork approval and deposit. Production depends on products and packaging; shipping adds express or freight time to your destination."
+      },
+      "customFormula": {
+        "question": "Can you create a custom formula?",
+        "answer": "Yes, when the project fits our range. Expect higher MOQs and longer lead times than ready-to-label products."
+      },
+      "organic": {
+        "question": "Are your products certified organic?",
+        "answer": "Organic status depends on the ingredient or finished product you order and the rules in your market. We confirm which certificates we can provide before you print claims."
+      },
+      "coaMsds": {
+        "question": "Do you provide COA and MSDS?",
+        "answer": "Yes, with every batch when batch documentation is included in your order."
+      },
+      "crueltyVegan": {
+        "question": "Are your products cruelty-free and vegan?",
+        "answer": "Many lines are plant-based. Vegan and cruelty-free status depends on the formula — we confirm per product in your quote."
+      },
+      "registration": {
+        "question": "Can you help with EU or US registration?",
+        "answer": "We provide the technical data (INCI, COA, MSDS, specifications). The brand owner files the notification or registration in their market."
+      },
+      "countries": {
+        "question": "Which countries do you ship to?",
+        "answer": "We ship to the USA, EU, UK, GCC and many other destinations. Tell us your country when you request a quote."
+      },
+      "deliveryTime": {
+        "question": "How long does delivery take?",
+        "answer": "Transit time depends on courier versus air or sea freight and your region. We estimate delivery in your quote — contact us if you need a time frame for a specific destination."
+      },
+      "customs": {
+        "question": "Who pays customs duties?",
+        "answer": "It depends on the Incoterm. With EXW, FOB and CIF the buyer typically pays import duties and local taxes."
+      }
+    },
+    "cta": {
+      "title": "Still have questions?",
+      "description": "Can't find the answer you're looking for? Please reach out to our friendly team and we'll get back to you as soon as possible.",
+      "quoteBtn": "Request a quote",
+      "btn": "Contact Our Team"
+    }
+  },
+  "Contact": {
+    "metadata": {
+      "title": "Contact Us | Moroccan Cosmetics - Wholesale and Private Label",
+      "description": "Get in touch with Moroccan Cosmetics for wholesale pricing, private label services, and product inquiries. Our team is ready to assist your skincare brand."
+    },
+    "hero": {
+      "title": "Contact",
+      "titleAccent": "Us",
+      "p1": "We at Moroccan Cosmetics are here to assist you with any questions about our Moroccan beauty products, wholesale pricing, and private label services. Whether you're starting your own skincare brand or sourcing for your store, our dedicated team is ready to help.",
+      "p2": "We offer a range of premium products, including Argan Oil, Prickly Pear Seed Oil, Black Soap, and more, all sourced from Morocco’s rich cosmetic heritage."
+    },
+    "cards": {
+      "whatsapp": {
+        "title": "WhatsApp",
+        "info": "Available Mon-Sat, 9 AM - 6 PM",
+        "sub": "Click to chat"
+      },
+      "email": {
+        "title": "Email",
+        "info": "contact@moroccancosmetics.com",
+        "sub": "We reply within 24 hours"
+      },
+      "location": {
+        "title": "Location",
+        "info": "Agadir, Morocco",
+        "sub": "Premium Sourcing Hub"
+      }
+    },
+    "help": {
+      "title": "How Can We Help You?",
+      "item1": "Request a Product Catalog or Prices",
+      "item2": "Get Assistance with Custom Formulas or Packaging",
+      "item3": "Discuss Shipping and Delivery Options",
+      "item4": "Speak Directly via WhatsApp or Email",
+      "response": "We usually respond within 24 hours"
+    },
+    "b2b": {
+      "title": "Wholesale and Private Label Supplier",
+      "p1": "With extensive expertise in the beauty industry, we bring a deep understanding of global standards while maintaining Morocco’s rich cosmetic tradition. We provide tailored solutions for businesses seeking high-quality, authentic Moroccan beauty products.",
+      "p2": "From iconic ingredients like Argan Oil, Prickly Pear Seed Oil, Moroccan Black Soap, to Natural Rose Water, we offer a curated range designed to meet the unique needs of our clients.",
+      "cta": "Start your journey today"
+    },
+    "form": {
+      "title": "Send Us a Message",
+      "description": "Please fill out the form below and we will get back to you shortly.",
+      "labels": {
+        "name": "Full Name",
+        "email": "Email Address",
+        "subject": "Subject",
+        "phone": "Phone Number",
+        "message": "Your Message"
+      },
+      "placeholders": {
+        "name": "Your Name",
+        "email": "email@example.com",
+        "subject": "Product Inquiry",
+        "phone": "+212 ...",
+        "message": "How can we help you today?"
+      },
+      "btn": "Send Message"
+    }
+  },
+  "PrivateLabelPage": {
+    "metadata": {
+      "title": "Private Label Moroccan Cosmetics for Your Brand | Moroccan Cosmetics",
+      "description": "Launch your brand with Moroccan argan oil, black soap, rhassoul and more. Private label filling, labelling and export support from Morocco — request a quote."
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "current": "Private label"
+    },
+    "hero": {
+      "title": "Private Label Moroccan Cosmetics for Your Brand",
+      "imageAlt": "Rhassoul clay from Morocco for private label skincare",
+      "introBase": "Argan oil, prickly pear seed oil, black soap, rhassoul clay and more — produced, filled, labelled and shipped from Morocco under your brand name.",
+      "introMoqStart": " Start from {units} pcs per product",
+      "introMoqCoa": ", with a batch COA for every order.",
+      "introMoqEnd": ".",
+      "introCoaOnly": " Batch COA available for every order.",
+      "introQuote": " Starting quantities are confirmed in your quote.",
+      "ctaQuote": "Request a Quote",
+      "ctaSamples": "Order a Sample Kit"
+    },
+    "chips": {
+      "moqFrom": "MOQ from {units} pcs",
+      "moqOnRequest": "MOQ: On request",
+      "readyIn": "Ready in {time}",
+      "coaMsds": "COA and MSDS with every batch",
+      "shippingCountries": "Shipping to {count}+ countries"
+    },
+    "config": {
+      "onRequest": "On request",
+      "moqUnits": "{units} pcs per product",
+      "weeksRange": "{min}-{max} weeks",
+      "weeksSingle": "{min} weeks",
+      "hours": "{hours} hours"
+    },
+    "intro": {
+      "title": "Your Brand, Made at the Source",
+      "body": "We are a Moroccan manufacturer based in {city}. We press, fill and pack our products ourselves, so your private label line comes directly from the producer — not through a trader. That means you know where every batch comes from, you get the documents your market asks for, and you pay factory prices.",
+      "moqBadge": "MOQ from {units} pcs per product (ready-to-label)",
+      "moqNote": "Higher minimums apply to custom packaging and custom formulas — see Three Ways to Start below."
+    },
+    "whoIsItFor": {
+      "title": "Who Our Private Label Service Is For",
+      "subtitle": "We partner with a wide range of beauty businesses to bring Moroccan cosmetics to their markets.",
+      "audiences": {
+        "newBrands": {
+          "title": "New Brands",
+          "desc": "Skincare and haircare startups launching with small first orders."
+        },
+        "spas": {
+          "title": "Spas and Hammams",
+          "desc": "Wanting their own branded professional and retail line."
+        },
+        "online": {
+          "title": "Online Stores",
+          "desc": "Amazon sellers looking for authentic products with documentation."
+        },
+        "distributors": {
+          "title": "Distributors",
+          "desc": "Building a Moroccan range for their local retail market."
+        },
+        "established": {
+          "title": "Established Brands",
+          "desc": "Adding argan or hammam products to an existing line."
+        }
+      }
+    },
+    "ways": {
+      "title": "Three Ways to Start",
+      "subtitle": "Choose the level of customization that fits your budget and timeline. You can start with option 1 and move up as your brand grows.",
+      "moq": "MOQ",
+      "leadTime": "Lead time",
+      "footnote": "Lead times start after artwork approval and deposit. We confirm exact figures in your quote.",
+      "level1": {
+        "title": "1. Ready to label",
+        "desc": "Our proven product + our stock bottle or jar + your printed label."
+      },
+      "level2": {
+        "title": "2. Custom packaging",
+        "desc": "Our proven product + the bottle, cap, box and print finish you choose."
+      },
+      "level3": {
+        "title": "3. Custom formula",
+        "desc": "A formula developed or adapted for your brand (blends, scents, textures)."
+      }
+    },
+    "products": {
+      "title": "Products You Can Launch Under Your Brand",
+      "subtitle": "Choose from our catalog of proven Moroccan formulas.",
+      "oils": {
+        "title": "Moroccan Oils",
+        "arganTitle": "Pure cosmetic argan oil",
+        "arganDesc": "Cold-pressed, unrefined. 15, 30, 50 and 100 ml. Learn what the research says in our <link>Argan Oil Benefits</link> guide.",
+        "pricklyTitle": "Prickly pear seed oil",
+        "pricklyDesc": "A premium facial oil. 15 and 30 ml.",
+        "blendsTitle": "Argan oil blends",
+        "blendsDesc": "Hair oil, beard oil, body oil, argan with rose or lavender."
+      },
+      "hammam": {
+        "title": "Hammam Essentials",
+        "soapTitle": "Moroccan black soap (savon beldi)",
+        "soapDesc": "Plain, eucalyptus, argan, rose or nila.",
+        "rhassoulTitle": "Rhassoul (ghassoul) clay",
+        "rhassoulDesc": "Powder or ready-to-use mask.",
+        "kessaTitle": "Kessa exfoliating gloves",
+        "kessaDesc": "With your printed label or tag.",
+        "giftTitle": "Hammam gift sets",
+        "giftDesc": "Black soap, kessa glove, rhassoul and a small argan oil in one branded box."
+      },
+      "floral": {
+        "title": "Floral Waters",
+        "roseTitle": "Moroccan rose water",
+        "roseDesc": "Spray bottles for toners and face mists."
+      },
+      "powders": {
+        "title": "Traditional Powders",
+        "nilaTitle": "Nila powder and aker fassi",
+        "nilaDesc": "For masks and heritage product lines."
+      },
+      "ctaMissing": "Don't see your product? Tell us what you want to create.",
+      "ctaContact": "Contact us →"
+    },
+    "packaging": {
+      "title": "Packaging Options",
+      "intro": "We recommend dark glass for oils: it protects them from light and keeps them fresh longer.",
+      "imageAlt": "Glass bottles and droppers for private label cosmetic packaging",
+      "bottlesTitle": "Bottles and Jars",
+      "bottlesDesc": "Amber, frosted or clear glass; dropper, pump or spray; 15 / 30 / 50 / 100 / 200 ml. Glass or PET jars for soap, clay and creams.",
+      "labelsTitle": "Labels and Boxes",
+      "labelsDesc": "Your logo and design, printed in English, French, Arabic or your language. Single product boxes, gift boxes, kraft or printed.",
+      "designTitle": "Design support",
+      "designDescIncluded": "Our team can adapt your artwork to the label size and check that the INCI list, batch number and other mandatory mentions are in place. We offer label layout support as part of your project.",
+      "designDescAsk": "Our team can adapt your artwork to the label size and check that the INCI list, batch number and other mandatory mentions are in place. Ask us what is included in your quote."
+    },
+    "howItWorks": {
+      "title": "How It Works",
+      "needFromYouTitle": "What we need from you:",
+      "needFromYou": "your logo and label design (or a brief for our designer), your target market, and the name and address of the company that will appear on the label.",
+      "steps": {
+        "brief": {
+          "title": "Brief",
+          "time": "Day 1",
+          "desc": "Tell us your products, quantities, target market and budget.",
+          "replyHours": "We reply within {hours}.",
+          "replyDefault": "We reply as quickly as possible during business days."
+        },
+        "samples": {
+          "title": "Samples",
+          "time": "Week 1-2",
+          "desc": "You receive product and packaging samples to test."
+        },
+        "quote": {
+          "title": "Quote and Artwork",
+          "time": "Week 2-3",
+          "desc": "We send a detailed quote and label mockups. You approve the pro-forma invoice."
+        },
+        "production": {
+          "title": "Production",
+          "timeRange": "Week {range}",
+          "timeQuote": "Determined in quote",
+          "desc": "Filling, labelling and packing in our facility, followed by quality control of every batch."
+        },
+        "documents": {
+          "title": "Documents",
+          "time": "Pre-shipment",
+          "descFull": "You receive the batch documentation your market requires before shipment (COA, MSDS, INCI list and export papers).",
+          "descBasic": "You receive the batch documentation your market requires before shipment (INCI list and export papers)."
+        },
+        "shipping": {
+          "title": "Shipping",
+          "time": "Final Step",
+          "desc": "By express courier, air or sea freight, to your warehouse or fulfillment center."
+        }
+      }
+    },
+    "regulations": {
+      "title": "Regulations: Who Does What",
+      "subtitle": "Selling cosmetics under your own brand makes you the brand owner, with legal responsibilities in your market. We supply the technical data; you, or your appointed representative, handle registration.",
+      "ownerLabel": "Brand Owner Responsibility",
+      "provideLabel": "What We Provide",
+      "regions": {
+        "eu": {
+          "name": "European Union",
+          "owner": "Appoint a Responsible Person, prepare a Product Information File and safety assessment, notify the product on the CPNP portal before sale.",
+          "us": "COA, MSDS, INCI list, specifications, formula information for the safety assessor when included in your order."
+        },
+        "uk": {
+          "name": "United Kingdom",
+          "owner": "Similar to the EU, with notification on the SCPN portal.",
+          "us": "Same documents as EU."
+        },
+        "us": {
+          "name": "United States",
+          "owner": "Follow FDA rules for cosmetics, including facility registration and product listing under MoCRA; use cosmetic claims only.",
+          "us": "Same documents, plus facility information."
+        },
+        "other": {
+          "name": "Other markets",
+          "owner": "Check local rules with your importer or consultant.",
+          "us": "Documents on request."
+        }
+      },
+      "claims": "<strong>Claims matter.</strong> Say what your product does to the look and feel of skin and hair (\"helps skin retain moisture\", \"tames frizz\"). Avoid medical claims such as \"cures eczema\" or \"stops hair loss\". See our <link>Argan Oil Benefits</link> guide for a \"Say this / Not this\" list."
+    },
+    "pricing": {
+      "title": "What Affects the Price?",
+      "quoteCta": "Request a quote for exact prices based on your needs.",
+      "factors": {
+        "product": {
+          "title": "Product and Grade",
+          "desc": "e.g., organic vs conventional argan oil."
+        },
+        "packaging": {
+          "title": "Packaging",
+          "desc": "Glass type, dropper or pump, box, print finish."
+        },
+        "quantity": {
+          "title": "Quantity",
+          "desc": "The price per unit drops significantly as volumes grow."
+        },
+        "customization": {
+          "title": "Customization",
+          "desc": "Level 1, 2 or 3 (Ready to label vs Custom formula)."
+        },
+        "shipping": {
+          "title": "Shipping Terms",
+          "desc": "EXW, FOB or delivered to your door."
+        }
+      }
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "moq": {
+        "q": "What is the minimum order for private label?",
+        "a": "{units} units per product for ready-to-label products. Custom packaging and custom formulas have higher minimums; see the \"Three Ways to Start\" table."
+      },
+      "mix": {
+        "q": "Can I mix several products in one order?",
+        "a": "Yes. Each product has its own minimum, but you can combine oils, soaps, clays and floral waters in one shipment."
+      },
+      "leadTime": {
+        "q": "How long does a private label order take?",
+        "aRange": "Usually {range} from artwork approval and deposit, depending on the packaging. Shipping time depends on the method and destination.",
+        "aDefault": "Timing depends on the products and packaging you choose. We confirm production time in your quote after artwork approval and deposit. Shipping time depends on the method and destination."
+      },
+      "samples": {
+        "q": "Can I order samples first?",
+        "aDefault": "Yes. Contact us for current sample options, pricing and what is included."
+      },
+      "labelDesign": {
+        "q": "Can you design my label?",
+        "aFull": "Yes. Our team can adapt your artwork to the label size and check that the INCI list, batch number and other mandatory mentions are in place.",
+        "aBasic": "In every case, we check that the mandatory mentions (INCI list, batch number, net quantity) have space on the label."
+      },
+      "organic": {
+        "q": "Can I write \"organic\" on my product?",
+        "a": "Only if your finished product meets the organic rules of your market, which usually means certification of the finished product by a recognized standard. Buying certified organic ingredients alone is often not enough. Ask us which certificates we can provide before you print."
+      },
+      "registration": {
+        "q": "Who registers the product in my country?",
+        "a": "You, as the brand owner, or your appointed representative. We provide the technical documents your assessor or portal needs, such as COA, MSDS, INCI list and specifications for the EU CPNP, the UK SCPN or US FDA listing when those apply to your order."
+      },
+      "payment": {
+        "q": "Which payment terms do you accept?"
+      },
+      "prices": {
+        "q": "How are your prices calculated?",
+        "a": "Prices depend on the product and grade, packaging (glass, pump, box, print), order quantity, customization level (ready-to-label, custom packaging or custom formula), and shipping terms (EXW, FOB or delivered). Request a quote for exact unit prices."
+      }
+    },
+    "finalCta": {
+      "title": "Ready to Launch Your Private Label Line?",
+      "body": "Tell us which products you want, your quantities and your market.",
+      "replyHours": " You'll receive a quote and sample options within {hours}.",
+      "replyDefault": " You'll receive a quote and next steps as quickly as possible."
+    }
+  }
+}

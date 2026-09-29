@@ -1,0 +1,1112 @@
+{
+  "Navbar": {
+    "home": "Accueil",
+    "about": "À Propos",
+    "benefits": "Avantages",
+    "privateLabel": "Marque Blanche",
+    "blog": "Blog",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "requestQuote": "Demander un Devis"
+  },
+  "Hero": {
+    "badge": "Fabricant de Cosmétiques Marocains",
+    "title": "Cosmétiques Marocains en Gros",
+    "titleAccent": "Fabricant Marque Blanche",
+    "titleEnd": "",
+    "description": "Huile d'argan, huile de pépins de figue de barbarie, savon noir, ghassoul et eau de rose authentiques — produits au Maroc et fournis en vrac ou sous votre marque aux enseignes beauté, spas et distributeurs dans plus de 40 pays.",
+    "trustCert": "EcoCert et USDA Organic",
+    "trustCoa": "COA et FDS pour chaque lot",
+    "trustMoq": "MOQ à partir de 50 unités",
+    "trustShipping": "Expédition USA, UE, UK et GCC",
+    "ctaCatalog": "Télécharger le Catalogue",
+    "ctaQuote": "Demander un Devis"
+  },
+  "HomeTrustBar": {
+    "ariaLabel": "Certifications et avantages grossiste",
+    "certified": "Certifié",
+    "shipping": "Expédition mondiale",
+    "crueltyFree": "Sans cruauté · Vegan",
+    "moq": "MOQ flexible",
+    "organic": "Bio"
+  },
+  "Home": {
+    "metadata": {
+      "title": "Fabricant Cosmétiques Marocains | Vente en Gros et Marque Blanche",
+      "description": "Fabricant marocain d'huile d'argan, savon noir, ghassoul et eau de rose. Approvisionnement en vrac et marque blanche avec COA, FDS et expédition mondiale. Demandez un devis."
+    }
+  },
+  "HomeWays": {
+    "title": "Deux Façons de",
+    "titleAccent": "Travailler Avec Nous",
+    "wholesaleTitle": "Vente en Gros et Approvisionnement",
+    "wholesaleDesc": "Huiles et ingrédients en vrac pour formulateurs, fabricants et distributeurs. Fûts, bidons et sacs avec documentation export complète.",
+    "wholesaleLink": "Découvrir le vrac",
+    "privateTitle": "Fabrication en Marque Blanche",
+    "privateDesc": "Lancez votre ligne de soins marocains. Conditionnement, étiquetage et packaging sous votre marque, avec MOQ flexibles et support design.",
+    "privateLink": "Services marque blanche"
+  },
+  "HomeProcess": {
+    "title": "Notre Processus en",
+    "titleAccent": "4 Étapes",
+    "step1": "Envoyez votre demande (produits, quantités, destination).",
+    "step2": "Recevez des échantillons et un devis détaillé.",
+    "step3": "Validez spécifications, packaging et visuels.",
+    "step4": "Production, contrôle qualité et expédition mondiale."
+  },
+  "HomeCatalog": {
+    "badge": "Grossiste",
+    "title": "Fournisseur marocain de confiance en ingrédients beauté",
+    "description": "Nous sommes spécialisés dans la beauté marocaine authentique — huile d’argan premium en vrac, 100% pure et bio, avec marque privée, export et prix compétitifs.",
+    "category": "General",
+    "prev": "Produits précédents",
+    "next": "Produits suivants",
+    "page": "Page",
+    "viewProduct": "Demander un devis"
+  },
+  "Partner": {
+    "title": "Pourquoi devenir",
+    "titleAccent": "Partenaire ?",
+    "shippingTitle": "Livraison Mondiale",
+    "shippingDesc": "Nous livrons dans le monde entier, garantissant que vous recevez vos produits rapidement, quel que soit votre emplacement.",
+    "supportTitle": "Service Client Exceptionnel",
+    "supportDesc": "Notre équipe est toujours prête à vous aider avec vos commandes, demandes personnalisées et questions sur les produits.",
+    "fulfillmentTitle": "Exécution Rapide et Fiable",
+    "fulfillmentDesc": "Recevez vos produits quand vous en avez besoin, avec des délais de livraison rapides et une assurance qualité."
+  },
+  "Mission": {
+    "badge": "DIRECT USINE",
+    "title": "Directement à la Source",
+    "titleAccent": "Sans Intermédiaires",
+    "titleEnd": "",
+    "description": "Nous sommes un fabricant de cosmétiques marocains basé à Agadir. Nous travaillons avec des coopératives partenaires dans la région de l'argan et maîtrisons chaque étape : approvisionnement, pressage, tests qualité, conditionnement, étiquetage et export. Qualité constante, traçabilité complète et prix grossiste direct usine.",
+    "gmp": "Traçabilité complète",
+    "iso": "Lots testés en laboratoire",
+    "bulk": "Conditionnement sur site",
+    "private": "Documentation export",
+    "bulkSupply": "40+",
+    "bulkSub": "PAYS",
+    "b2bExport": "Agadir",
+    "b2bSub": "MAROC"
+  },
+  "WhyChoose": {
+    "badge": "POURQUOI LES MARQUES NOUS CHOISISSENT",
+    "title": "Pourquoi les Marques",
+    "titleAccent": "Nous Choisissent",
+    "description": "Les partenaires B2B nous font confiance pour une qualité vérifiée, des ingrédients marocains certifiés et un export fiable vers les marchés internationaux.",
+    "qualityTitle": "Qualité Vérifiée",
+    "qualityDesc": "Chaque lot est testé en laboratoire et accompagné d'un certificat d'analyse (COA) et d'une fiche de données de sécurité (FDS).",
+    "certTitle": "Ingrédients Certifiés",
+    "certDesc": "Processus certifiés ISO avec options EcoCert et USDA Organic sur certaines gammes.",
+    "moqTitle": "MOQ Flexibles",
+    "moqDesc": "Marque blanche à partir de 50 unités par référence — idéal pour les nouvelles marques.",
+    "exportTitle": "Expertise Export",
+    "exportDesc": "Certificats d'origine, factures, listes de colisage et documents phytosanitaires si requis, par air ou mer.",
+    "responseTitle": "Réponse Rapide",
+    "responseDesc": "Devis sous 24 h par e-mail ou WhatsApp."
+  },
+  "Products": {
+    "badge": "NOTRE GAMME",
+    "title": "MEILLEURES",
+    "titleAccent": "VENTES",
+    "description": "Directement à la source au Maroc",
+    "inBulk": "en vrac",
+    "blackSeed": {
+      "name": "Organic black seed oil",
+      "desc": "L'huile de nigelle naturelle du Maroc nourrit la peau et les cheveux."
+    },
+    "cyperus": {
+      "name": "Cyperus rotundus oil morocco",
+      "desc": "Huile de Souchet 100% Pure"
+    },
+    "frankincense": {
+      "name": "frankincense oil",
+      "desc": "frankincense essential oil"
+    },
+    "akerFassi": {
+      "name": "Moroccan Aker Fassi Powder",
+      "desc": "Poudre naturelle de coquelicot et de grenade. Soins traditionnels."
+    },
+    "roseWater": {
+      "name": "Organic Moroccan Rose Water – Pure Natural Floral Toner",
+      "desc": "Distillée à partir de Rosa Damascena. Tonique naturel qui hydrate et apaise."
+    },
+    "arganCosmetic": {
+      "name": "Argan Oil 100% Organic Cold-Pressed - Pure",
+      "desc": "Obtenez de l'huile d'argan biologique authentique et non raffinée directement du Maroc."
+    },
+    "arganCulinary": {
+      "name": "Organic Culinary Argan Oil of Morocco – 100% Pure Edible Argan Oil",
+      "desc": "Huile d'argan bio marocaine pour la cuisson - Huile d'argan pure et torréfiée, idéale pour la cuisson et la consommation."
+    },
+    "nila": {
+      "name": "Moroccan Nila Powder – Natural Mask et Scrub",
+      "desc": "Poudre de Nila Marocaine Pure pour masques visage et gommages corporels naturels"
+    },
+    "pricklyPear": {
+      "name": "Organic Prickly Pear Seeds Oil -Morocco",
+      "desc": "Huile de pépins de figue de Barbarie bio | Anti-âge | Anti-rides"
+    },
+    "blackSoap": {
+      "name": "Organic Moroccan Black Soap (Savon Noir / Beldi Soap) – Wholesale Bulk",
+      "desc": "Savon Beldi traditionnel à base d'olives macérées. Exfolie et nettoie."
+    },
+    "ghassoul": {
+      "name": "Moroccan Ghassoul Clay Powder Brown - Green - Red",
+      "desc": "Pure Ghassoul Moroccan clay from the Atlas Mountains, perfect for skincare, haircare"
+    },
+    "sidr": {
+      "name": "Moroccan Sidr Powder- Hair et Skin 100% Pure",
+      "desc": "Poudre de feuilles de jujubier naturelles. Alternative au shampooing."
+    }
+  },
+  "ContactCTA": {
+    "badge": "COMMENCER",
+    "title": "Prêt à sourcer des cosmétiques",
+    "titleAccent": "marocains authentiques ?",
+    "description": "Dites-nous ce dont vous avez besoin et recevez un devis sous 24 h. Notre équipe accompagne marques, spas et distributeurs dans le monde entier.",
+    "contactBtn": "Contactez-nous",
+    "quoteBtn": "Demander un Devis"
+  },
+  "Footer": {
+    "contact": "Contact Export",
+    "facility": "Unité de Fabrication",
+    "location": "Zone Industrielle, Maroc",
+    "logistics": "Partenaires Logistiques",
+    "payment": "Moyens de Paiement",
+    "description": "Fabricant de cosmétiques marocains et fournisseur de produits de beauté. Nous proposons des solutions d'exportation B2B en gros, en vrac et en marque blanche avec une qualité naturelle et des normes mondiales."
+  },
+  "Keywords": {
+    "manufacturer": "fabricant",
+    "cosmetics": "cosmétiques",
+    "moroccan": "marocain",
+    "beauty": "beauté",
+    "wholesale": "vente en gros",
+    "supplier": "fournisseur",
+    "exporter": "exportateur",
+    "factory": "usine",
+    "privateLabel": "marque blanche",
+    "skincare": "soins de la peau",
+    "natural": "naturel",
+    "organic": "bio",
+    "bulk": "vrac",
+    "b2b": "b2b",
+    "argan": "argan"
+  },
+  "About": {
+    "metadata": {
+      "title": "À Propos | Fabricant et Exportateur de Cosmétiques Marocains",
+      "description": "Rencontrez l'équipe marocaine derrière nos huiles d'argan et cosmétiques naturels. Fabrication, coopératives et export vers plus de 50 pays depuis Agadir."
+    },
+    "hero": {
+      "title": "À Propos de Moroccan Cosmetics",
+      "titleAccent": "Fabricant Exportateur",
+      "titleEnd": "Depuis 2019"
+    },
+    "whoWeAre": {
+      "badge": "Professionnel et Transparent",
+      "title": "Qui Sommes-Nous",
+      "p1": "Nous sommes un fabricant et fournisseur grossiste marocain spécialisé dans les produits de beauté bio. Basés à Agadir, au cœur du pays de l'argan, nous travaillons avec des coopératives de femmes, des laboratoires certifiés et des partenaires internationaux.",
+      "p2": "Notre équipe allie savoir-faire local et normes qualité internationales — de l'approvisionnement au pressage, conditionnement, étiquetage et documentation export."
+    },
+    "story": {
+      "badge": "Authentique et Humain",
+      "title": "Notre Histoire",
+      "p1": "Nous sommes plus qu'un fournisseur — nous racontons l'héritage marocain. Des huiles du désert aux botaniques de l'Atlas, nos produits reflètent soin, tradition et respect de la nature.",
+      "p2": "Moroccan Cosmetics a été fondée à Agadir pour donner aux marques internationales un accès direct aux ingrédients marocains authentiques, sans intermédiaires. Aujourd'hui nous accompagnons des clients dans plus de 50 pays."
+    },
+    "milestones": {
+      "badge": "Notre Parcours",
+      "title": "Étapes Clés",
+      "m1Year": "2019",
+      "m1Title": "Fondation à Marrakech",
+      "m1Desc": "Lancement avec des huiles signature et la mission d'apporter la beauté marocaine au monde.",
+      "m2Year": "2020",
+      "m2Title": "Certification ECOCERT Bio",
+      "m2Desc": "Certification ECOCERT organic, validant notre engagement pour une beauté propre et durable.",
+      "m3Year": "2021",
+      "m3Title": "Programme Coopératives Féminines",
+      "m3Desc": "Partenariats équitables élargis avec des coopératives de femmes dans la région de l'argan.",
+      "m4Year": "2023",
+      "m4Title": "Emballages Durables",
+      "m4Desc": "Transition vers des emballages durables et des méthodes de production éco-responsables."
+    },
+    "facility": {
+      "badge": "Notre Site",
+      "title": "Fabrication à Agadir",
+      "description": "Notre site à Agadir comprend pressage, filtration, conditionnement, étiquetage et stockage climatisé. Chaque lot est traçable de la coopérative au flacon final, avec COA et FDS."
+    },
+    "cooperatives": {
+      "badge": "Impact Social",
+      "title": "Coopératives de Femmes",
+      "description": "La production d'huile d'argan est liée aux coopératives de femmes du sud-ouest marocain. Nous travaillons avec des coopératives du Souss–Massa sous accords équitables à long terme."
+    },
+    "core": {
+      "authenticity": "Authenticité",
+      "authenticityDesc": "Ingrédients 100% d'origine marocaine, documentés.",
+      "transparency": "Transparence",
+      "transparencyDesc": "COA et FDS pour chaque lot, spécifications honnêtes.",
+      "sustainability": "Durabilité",
+      "sustainabilityDesc": "Sourcing responsable respectant la forêt d'arganiers, réserve biosphère UNESCO depuis 1998.",
+      "partnership": "Partenariat",
+      "partnershipDesc": "Nous grandissons avec nos clients, du premier échantillon à la production à grande échelle."
+    },
+    "values": {
+      "badge": "Nos Valeurs",
+      "title": "Ce Que Nous Défendons",
+      "subtitle": "Confiance, qualité et partenariats durables guident chaque expédition.",
+      "quality": "Qualité",
+      "qualityDesc": "Chaque lot est testé, certifié et traçable de la source à l'expédition.",
+      "sustainability": "Durabilité",
+      "sustainabilityDesc": "Sourcing éthique, emballages éco et impact environnemental réduit.",
+      "community": "Communauté",
+      "communityDesc": "Soutien aux coopératives marocaines et au commerce équitable.",
+      "globalReach": "Portée Mondiale",
+      "globalReachDesc": "Expédition vers plus de 50 pays avec documentation export complète."
+    },
+    "stats": {
+      "title": "En Chiffres",
+      "organic": "100% Certifié Bio",
+      "countries": "50+ Pays Desservis",
+      "ingredients": "20+ Ingrédients Marocains",
+      "support": "Support Client 24/7"
+    },
+    "faq": {
+      "badge": "FAQ Business",
+      "title": "Questions fréquentes pour votre activité",
+      "seeAll": "Voir toutes les FAQ",
+      "q1": {
+        "question": "Vos produits sont-ils vraiment 100% bio ?",
+        "answer": "Oui. Nos produits sont certifiés bio (Ecocert, USDA le cas échéant), testés en laboratoire et formulés avec des ingrédients naturels propres."
+      },
+      "q2": {
+        "question": "Proposez-vous la marque blanche et le branding personnalisé ?",
+        "answer": "Oui. Nous vous aidons à lancer votre marque avec étiquettes sur mesure, packaging et accompagnement marque blanche de l'échantillon à la production."
+      },
+      "q3": {
+        "question": "Quel est le minimum de commande en gros ?",
+        "answer": "Nos MOQ sont flexibles. La marque blanche démarre souvent à 50 unités par référence. Les commandes vrac se discutent selon le produit."
+      },
+      "q4": {
+        "question": "Livrez-vous à l'international ?",
+        "answer": "Oui. Expédition mondiale par air ou mer, avec documentation export pour les USA, l'Europe, le GCC et d'autres marchés."
+      },
+      "q5": {
+        "question": "Puis-je commander des échantillons avant le gros ?",
+        "answer": "Bien sûr. Échantillons d'huile d'argan, Aker Fassi, savon noir, eau de rose et plus pour valider la qualité avant commande."
+      },
+      "q6": {
+        "question": "Vos produits sont-ils cruelty-free et vegan ?",
+        "answer": "Oui. Aucun test sur animaux. Ingrédients végétaux et sourcing éthique pour des lignes cosmétiques naturelles."
+      },
+      "q7": {
+        "question": "Avec qui travaillez-vous ?",
+        "answer": "Marques beauté, spas, hammams, salons, e-commerce et entrepreneurs qui créent leur ligne de cosmétiques naturels."
+      },
+      "q8": {
+        "question": "Quels délais de production et d'expédition ?",
+        "answer": "Souvent 5–10 jours ouvrés pour la marque blanche après validation. Livraison internationale 3–7 jours en express ou plus en fret maritime."
+      },
+      "q9": {
+        "question": "Pourquoi vos produits marocains sont-ils spéciaux ?",
+        "answer": "Fabriqués au Maroc avec savoir-faire traditionnel, ingrédients purs, traçabilité et certifications reconnues par les acheteurs B2B."
+      },
+      "q10": {
+        "question": "Puis-je mixer plusieurs produits dans une commande ?",
+        "answer": "Oui. Combinez argan, eau de rose, Aker Fassi, savon noir, argiles, etc. dans une seule commande selon vos besoins."
+      }
+    },
+    "cta": {
+      "badge": "Devenez Partenaire",
+      "title": "Prêt à sourcer des cosmétiques",
+      "titleAccent": "marocains bio premium ?",
+      "description": "Vente en gros, marque blanche ou premiers échantillons — notre équipe export est à votre écoute.",
+      "btnContact": "Contactez-nous",
+      "btnQuote": "Demander un Devis",
+      "visitNote": "Visite de l'usine ou appel vidéo ? Contactez-nous — nous accueillons les partenaires B2B sérieux."
+    }
+  },
+  "Benefits": {
+    "metadata": {
+      "title": "Bienfaits des Soins Marocains Naturels | Huile d'Argan, Savon Noir, Ghassoul et Plus",
+      "description": "Explorez les bienfaits de nos produits de soins marocains premium comme l'huile d'argan, l'huile de pépins de figue de barbarie, le savon noir, le ghassoul, et plus encore. Découvrez comment ces ingrédients naturels aident à nourrir, rajeunir et hydrater votre peau et vos cheveux pour un éclat radieux."
+    },
+    "hub": {
+      "metadata": {
+        "title": "Bienfaits des ingrédients beauté marocains : argan, argile et plus",
+        "description": "Bienfaits documentés de l'huile d'argan, du figuier de barbarie, du savon noir, du rhassoul et de l'eau de rose — et allégations cosmétiques que les marques peuvent assumer."
+      },
+      "breadcrumbHome": "Accueil",
+      "breadcrumbCurrent": "Bienfaits",
+      "heroImageAlt": "Ingrédients beauté marocains : huile d'argan, argile et eau de rose",
+      "title": "Bienfaits des ingrédients beauté marocains",
+      "introP1": "L'huile d'argan, le rhassoul, le savon noir et l'eau de rose font partie des rituels de beauté marocains depuis des générations. Aujourd'hui, ce sont aussi parmi les ingrédients les plus demandés en soins naturels.",
+      "introP2Before": "Nous produisons et exportons ces ingrédients, et chaque semaine on nous pose la même question :",
+      "introP2Emphasis": "à quoi servent-ils vraiment ?",
+      "introP2After": "Cette section y répond avec honnêteté. Pour chaque ingrédient, nous distinguons ce que la recherche confirme, ce que la tradition suggère et ce qui relève du marketing — pour que vous les utilisiez bien et que les marques puissent formuler des allégations défendables.",
+      "evidenceTitle": "Comment nous parlons des bienfaits",
+      "evidenceIntro": "Chaque bienfait sur nos pages est indiqué selon la force des preuves :",
+      "evidenceColLabel": "Mention",
+      "evidenceColMeaning": "Signification",
+      "evidenceRow1Label": "Études disponibles",
+      "evidenceRow1Meaning": "Démontré dans des études cliniques humaines ou des études de laboratoire solides",
+      "evidenceRow2Label": "Usage traditionnel",
+      "evidenceRow2Meaning": "Utilisé depuis des générations au Maroc ; plausible, mais pas formellement prouvé",
+      "evidenceRow3Label": "Non étayé",
+      "evidenceRow3Meaning": "Allégation populaire sans bonnes preuves — nous le signalons",
+      "ingredientsTitle": "Découvrir les ingrédients",
+      "bestForLabel": "Idéal pour :",
+      "guideComingSoon": "Guide bientôt disponible",
+      "ingredients": {
+        "argan": {
+          "title": "Huile d'argan",
+          "imageAlt": "Huile d'argan cosmétique en gros",
+          "body": "L'ingrédient marocain le mieux documenté. Les études soutiennent sa capacité à aider la peau à retenir l'hydratation et à améliorer l'élasticité, et à protéger les cheveux colorés. Elle ne fait pas repousser les cheveux.",
+          "bestFor": "peaux sèches et matures, cheveux frisés ou colorés.",
+          "readLink": "Lire : bienfaits de l'huile d'argan",
+          "shopLink": "Acheter : huile d'argan en gros"
+        },
+        "pricklyPear": {
+          "title": "Huile de pépins de figue de barbarie",
+          "imageAlt": "Huile de pépins de figue de barbarie",
+          "body": "Une huile visage légère et rapidement absorbée, naturellement riche en vitamine E et en acide linoléique. L'une des huiles premium les plus prisées en soins naturels.",
+          "bestFor": "sérums visage, peaux normales à mixtes.",
+          "shopLink": "Acheter : huile de figue de barbarie en gros"
+        },
+        "blackSoap": {
+          "title": "Savon noir marocain (savon beldi)",
+          "imageAlt": "Savon noir marocain savon beldi",
+          "body": "Un savon mou à base d'olive qui prépare la peau à l'exfoliation au gant kessa — première étape du rituel hammam.",
+          "bestFor": "soins du corps, spas et rituels hammam.",
+          "shopLink": "Acheter : savon noir en gros"
+        },
+        "rhassoul": {
+          "title": "Argile rhassoul (ghassoul)",
+          "imageAlt": "Argile rhassoul ghassoul",
+          "body": "Une argile minérale des montagnes de l'Atlas, utilisée pour nettoyer peau et cheveux et absorber l'excès de sébum sans détergents agressifs.",
+          "bestFor": "peaux grasses et mixtes, masques à l'argile, lavage naturel des cheveux.",
+          "shopLink": "Acheter : rhassoul en gros"
+        },
+        "roseWater": {
+          "title": "Eau de rose marocaine",
+          "imageAlt": "Eau de rose marocaine en vrac",
+          "body": "Une eau florale douce et rafraîchissante, utilisée comme tonique, brume visage ou pour préparer les masques à l'argile.",
+          "bestFor": "tonification quotidienne, peaux sensibles, mélange avec le rhassoul.",
+          "shopLink": "Acheter : eau de rose en vrac"
+        },
+        "nila": {
+          "title": "Poudre de nila marocaine",
+          "imageAlt": "Poudre de nila bleue du Maroc",
+          "body": "Une poudre minérale bleue vive utilisée dans les masques traditionnels et les rituels hammam. Les bienfaits relèvent surtout de la pratique marocaine ; la recherche clinique est limitée.",
+          "bestFor": "masques éclaircissants, gammes hammam, rituels spa et patrimoniaux.",
+          "shopLink": "Acheter : poudre de nila en gros"
+        },
+        "akerFassi": {
+          "title": "Aker fassi",
+          "imageAlt": "Poudre rouge aker fassi du Maroc",
+          "body": "Une poudre de pétales de coquelicot prisée comme teinte naturelle pour les lèvres et les joues, dans les recettes de beauté traditionnelles. Les preuves sont surtout traditionnelles plutôt que cliniques.",
+          "bestFor": "couleur lèvres et joues, maquillage naturel, marques patrimoniales de niche.",
+          "shopLink": "Acheter : aker fassi en gros"
+        }
+      },
+      "brandsTitle": "Pour les marques : allégations que vous pouvez assumer",
+      "brandsP1": "Les allégations cosmétiques sont réglementées. Dans l'UE, elles doivent respecter le règlement (UE) n° 655/2013 — véridiques, étayées et équitables. Aux États-Unis, une formulation comme « hydrate la peau sèche » relève du cosmétique ; les allégations médicales ou de repousse capillaire peuvent relever du médicament.",
+      "brandsP2": "Restez sur des bienfaits que votre formule et vos études soutiennent : aide à retenir l'hydratation, améliore l'aspect de l'élasticité, dompte les frisottis ou nettoie sans détergents agressifs — pas de guérisons, de résultats médicaux ni de repousse garantie.",
+      "brandsP3Before": "Nos guides précisent des exemples « à dire / à éviter » pour des étiquettes défendables. Quand vous êtes prêts à vous approvisionner, nous accompagnons les programmes",
+      "brandsP3Link": "marque blanche",
+      "brandsP3After": "avec une documentation adaptée à votre marché.",
+      "matcherTitle": "Trouver l'ingrédient adapté à votre besoin",
+      "matcherColNeed": "Votre besoin",
+      "matcherColIngredient": "Meilleur ingrédient",
+      "matcherColWhy": "Pourquoi",
+      "matcherRows": {
+        "drySkin": {
+          "need": "Peau sèche ou mature",
+          "ingredient": "Huile d'argan",
+          "why": "Aide la peau à retenir l'hydratation (études disponibles)"
+        },
+        "lightOil": {
+          "need": "Huile visage légère",
+          "ingredient": "Huile de pépins de figue de barbarie",
+          "why": "Absorption rapide, riche en vitamine E"
+        },
+        "oilySkin": {
+          "need": "Peau grasse ou mixte",
+          "ingredient": "Argile rhassoul",
+          "why": "Nettoie et absorbe l'excès de sébum"
+        },
+        "frizzyHair": {
+          "need": "Cheveux frisés ou colorés",
+          "ingredient": "Huile d'argan",
+          "why": "Dompte les frisottis ; aide à protéger les cheveux teints (études de labo)"
+        },
+        "hammam": {
+          "need": "Rituel hammam complet",
+          "ingredient": "Savon noir + kessa + rhassoul + huile d'argan",
+          "why": "La routine traditionnelle étape par étape"
+        },
+        "toner": {
+          "need": "Tonique rafraîchissant",
+          "ingredient": "Eau de rose",
+          "why": "Doux, adapté à un usage quotidien"
+        }
+      },
+      "faqTitle": "Questions fréquentes",
+      "faq": {
+        "q1": "Quel ingrédient marocain convient le mieux à la peau sèche ?",
+        "a1": "L'huile d'argan est l'option la mieux documentée : des études cliniques montrent qu'elle aide la peau à retenir l'hydratation. L'huile de pépins de figue de barbarie est une alternative plus légère pour le visage.",
+        "q2": "Les produits beauté marocains conviennent-ils aux peaux sensibles ?",
+        "a2": "Les produits purs sans parfum sont en général bien tolérés. Ceux avec parfum ajouté irritent plus souvent. Faites toujours un test cutané avant une nouvelle utilisation.",
+        "q3": "Puis-je reprendre ces bienfaits sur mes étiquettes ?",
+        "a3": "Vous pouvez utiliser des allégations cosmétiques comme aide à retenir l'hydratation ou dompte les frisottis si vous pouvez les justifier. Les allégations médicales (guérit l'eczéma, fait repousser les cheveux) ne sont pas autorisées pour les cosmétiques dans l'UE ni aux États-Unis.",
+        "q4": "Quelle différence entre le savon noir marocain et le savon noir africain ?",
+        "a4": "Le savon noir marocain (savon beldi) est un savon mou, gélatineux, à base de pâte et d'huile d'olive, utilisé au hammam avant l'exfoliation. Le savon noir africain vient d'Afrique de l'Ouest et contient d'autres ingrédients, comme des cendres végétales et du beurre de karité."
+      },
+      "ctaTitle": "Approvisionnez-vous en ces ingrédients pour votre marque",
+      "ctaQuote": "Demander un devis",
+      "ctaPrivateLabel": "Voir la marque blanche"
+    },
+    "hero": {
+      "badge": "Sagesse de la Nature",
+      "title": "Découvrez les Bienfaits Incroyables des",
+      "titleAccent": "Soins Naturels",
+      "titleEnd": "Marocains",
+      "description": "Découvrez la puissance des rituels de beauté bio transmis de génération en génération."
+    },
+    "intro": {
+      "badge": "Bienfaits de Nos Produits Naturels",
+      "title": "La Puissance des Ingrédients Purs",
+      "description": "Découvrez la puissance de la nature avec notre gamme premium de produits de beauté et de bien-être bio. Chaque produit est soigneusement élaboré pour nourrir, rajeunir et sublimer votre beauté naturelle. Voici comment notre collection d'huiles, de savons, de masques et plus encore peut vous être bénéfique."
+    },
+    "products": {
+      "perfectFor": "Idéal pour",
+      "arganCosmetic": {
+        "title": "Huile d'Argan Cosmétique",
+        "subtitle": "Huile nourrissante pour la peau et les cheveux",
+        "benefit1": "Hydrate et nourrit : Riche en vitamine E et en acides gras ; aide les peaux sèches à paraître plus douces.",
+        "benefit2": "Souplesse et confort : Aide la peau à paraître plus souple ; adaptée aux peaux matures.",
+        "benefit3": "Éclat naturel : Laisse la peau lumineuse et soignée.",
+        "perfect": "Tous les types de peaux, particulièrement les peaux sèches et matures."
+      },
+      "arganFood": {
+        "title": "Huile d'Argan Alimentaire",
+        "subtitle": "Huile culinaire au goût de noisette",
+        "benefit1": "Riche en nutriments : Regorge d'antioxydants et d'acides gras oméga.",
+        "benefit2": "Soin des cheveux : Peut laisser les cheveux plus brillants et plus doux sur les longueurs.",
+        "benefit3": "Cuisine : Huile culinaire marocaine traditionnelle pour assaisonnements et trempettes.",
+        "perfect": "Usage culinaire et soins occasionnels des cheveux ou du corps."
+      },
+      "pricklyPear": {
+        "title": "Huile de Pépins de Figue de Barbarie",
+        "subtitle": "Huile visage légère et premium",
+        "benefit1": "Riche en antioxydants : Aide à préserver l'aspect de la peau face au stress quotidien.",
+        "benefit2": "Hydrate et illumine : Laisse la peau hydratée avec un teint frais et uniforme.",
+        "benefit3": "Texture légère : Convient aux peaux qui réagissent facilement.",
+        "perfect": "Peaux sèches ou matures et soins du visage quotidiens."
+      },
+      "nila": {
+        "title": "Poudre/Masque Nila",
+        "subtitle": "Remède de beauté traditionnel",
+        "benefit1": "Nettoyage en profondeur : Aide à éliminer les impuretés superficielles.",
+        "benefit2": "Illumine le teint : Aide à uniformiser l'aspect du teint.",
+        "benefit3": "Exfoliation douce : Élimine les cellules mortes pour une peau plus lisse au toucher.",
+        "perfect": "Teints ternes ou irréguliers."
+      },
+      "akerFassi": {
+        "title": "Aker Fassi",
+        "subtitle": "Éclat marocain traditionnel",
+        "benefit1": "Texture et toucher : Aide la peau à paraître plus lisse et souple.",
+        "benefit2": "Riche en vitamines : Nourrit l'aspect de la peau.",
+        "benefit3": "Sublime le teint : Apporte un effet bonne mine naturel.",
+        "perfect": "Peaux matures et teints irréguliers."
+      },
+      "essentialOils": {
+        "title": "Huiles Essentielles",
+        "subtitle": "Arôme pur pour le bien-être",
+        "benefit1": "Aromathérapie : Arômes agréables pour des rituels relaxants.",
+        "benefit2": "Soin de la peau : Aide la peau à paraître douce dans les mélanges.",
+        "benefit3": "Parfum frais : Note vivifiante pour les soins corps et maison.",
+        "perfect": "Aromathérapie, soins de la peau et bien-être général."
+      },
+      "blackSoap": {
+        "title": "Savon Noir",
+        "subtitle": "Nettoyage en profondeur",
+        "benefit1": "Nettoyage profond : Élimine les impuretés et prépare la peau à l'exfoliation.",
+        "benefit2": "Adoucit et hydrate : Laisse la peau douce sans l'assécher.",
+        "benefit3": "Sensation clarifiante : Aide les peaux grasses à paraître propres et équilibrées.",
+        "perfect": "Peaux grasses ou mixtes et rituel hammam du corps."
+      },
+      "naturalSoap": {
+        "title": "Savon Naturel",
+        "subtitle": "Doux et Nourrissant",
+        "benefit1": "Ingrédients Naturels : Huiles végétales qui nourrissent et hydratent.",
+        "benefit2": "Doux : Sans produits chimiques agressifs, parfait pour les peaux sensibles.",
+        "benefit3": "Hydrate tout en Nettoyant : Ne dessèche pas la peau.",
+        "perfect": "Peaux sensibles, peaux sèches et utilisation quotidienne."
+      },
+      "ghassoul": {
+        "title": "Argile Ghassoul",
+        "subtitle": "Le Secret Marocain",
+        "benefit1": "Absorption du sébum : Aide à absorber l'excès de sébum et les impuretés superficielles.",
+        "benefit2": "Minéraux nourrissants : Laisse la peau et les cheveux propres et doux.",
+        "benefit3": "Soin des cheveux : Nettoie le cuir chevelu et les longueurs sans agents agressifs.",
+        "perfect": "Peaux grasses ou mixtes et lavage naturel des cheveux."
+      },
+      "kessa": {
+        "title": "Gant Kessa",
+        "subtitle": "Exfoliation Traditionnelle",
+        "benefit1": "Exfolie : Élimine les cellules mortes pour une peau douce au toucher.",
+        "benefit2": "Rituel hammam : S'utilise avec le savon noir pour un gommage traditionnel.",
+        "benefit3": "Peau lissée : Prépare la peau pour une meilleure application des huiles.",
+        "perfect": "Exfoliation régulière, soins corporels et amélioration de la texture de la peau."
+      },
+      "roseWater": {
+        "title": "Eau de Rose",
+        "subtitle": "Tonique Naturel et Rafraîchissant",
+        "benefit1": "Hydratant : Rafraîchit naturellement la peau, la laissant douce et satinée.",
+        "benefit2": "Équilibre le pH : Aide à équilibrer le pH de la peau et agit comme un tonique doux.",
+        "benefit3": "Calme et Apaise : Idéal pour les peaux sensibles ou irritées.",
+        "perfect": "Peaux sensibles, peaux sèches et après le nettoyage."
+      }
+    },
+    "why": {
+      "title": "Pourquoi Choisir nos Produits ?",
+      "natural": "100% Naturel",
+      "naturalDesc": "Issu du riche patrimoine botanique du Maroc, sans produits chimiques nocifs.",
+      "cruelty": "Production éthique",
+      "crueltyDesc": "Fabriqué dans le respect des personnes, des communautés et de l'environnement.",
+      "holistic": "Bien-être Holistique",
+      "holisticDesc": "Allier les traditions de beauté ancestrales aux soins modernes pour un bien-être global."
+    }
+  },
+  "PrivateLabel": {
+    "metadata": {
+      "title": "Produits de Soins Naturels en Marque Blanche | Huile d'Argan, Savon Noir, Ghassoul et Plus",
+      "description": "Lancez votre propre marque de soins avec nos produits naturels premium en marque blanche. De l'huile d'argan au savon noir en passant par le ghassoul et l'huile de pépins de figue de barbarie, nous offrons des formulations de haute qualité pour votre entreprise."
+    },
+    "hero": {
+      "title": "Produits de Soins Naturels en",
+      "titleAccent": "Marque Blanche",
+      "titleEnd": "pour Votre Marque",
+      "description": "Votre vision, notre expertise. Lancez votre ligne de beauté marocaine premium avec un partenaire de confiance."
+    },
+    "intro": {
+      "title": "Votre Marque, Nos Ingrédients d'Origine",
+      "quote": "Lancez votre propre marque de soins de la peau avec nos produits naturels de qualité supérieure en marque blanche. De l'huile d'argan au savon noir en passant par le ghassoul, nous proposons des formulations de soins de haute qualité pour votre entreprise."
+    },
+    "journey": {
+      "badge": "Étape par Étape",
+      "title": "Le Parcours de la Marque Blanche",
+      "step1": {
+        "title": "Sélection des Produits",
+        "desc": "Choisissez parmi notre vaste gamme d'huiles, d'argiles et de savons marocains premium. Nous proposons différents grades et formulations adaptés aux besoins de votre marque."
+      },
+      "step2": {
+        "title": "Emballage et Design",
+        "desc": "Sélectionnez parmi notre collection de flacons et pots haut de gamme. Notre équipe de design peut vous aider à créer des étiquettes personnalisées qui reflètent l'identité de votre marque."
+      },
+      "step3": {
+        "title": "Production de Qualité",
+        "desc": "Vos produits sont fabriqués dans notre installation au Maroc, avec des procédures de qualité et d'hygiène adaptées aux cosmétiques."
+      },
+      "step4": {
+        "title": "Logistique Globale",
+        "desc": "Nous gérons la logistique. De notre usine à votre porte, nous assurons une expédition sûre et efficace à nos partenaires dans le monde entier."
+      }
+    },
+    "ready": {
+      "title": "Prêt pour Votre Étiquette",
+      "description": "Nous fournissons une gamme de produits marocains authentiques prêts à être personnalisés pour votre marque. Les ingrédients et allégations dépendent de chaque référence — demandez les fiches produit.",
+      "products": {
+        "argan": "Huile d'Argan Cosmétique",
+        "prickly": "Huile de Pépins de Figue de Barbarie",
+        "soap": "Savon Noir Marocain",
+        "ghassoul": "Masque à l'Argile Ghassoul",
+        "rose": "Eau de Rose Tonifiante",
+        "aker": "Poudre d'Aker Fassi",
+        "nila": "Masque Éclaircissant Nila",
+        "essential": "Mélanges d'Huiles Essentielles",
+        "naturalSoap": "Savons Végétaux Naturels",
+        "kessa": "Gants d'Exfoliation Kessa"
+      }
+    },
+    "why": {
+      "title": "Pourquoi s'associer avec nous ?",
+      "quality": {
+        "title": "Qualité Premium",
+        "desc": "Ingrédients authentiques sourcés au Maroc, avec traçabilité et documentation sur demande."
+      },
+      "moq": {
+        "title": "Commandes flexibles",
+        "desc": "Quantités de commande à discuter selon le produit et le conditionnement — contactez-nous pour les MOQ actuels."
+      },
+      "support": {
+        "title": "Accompagnement Complet",
+        "desc": "De la formulation initiale à la livraison finale, notre équipe vous accompagne à chaque étape."
+      }
+    },
+    "cta": {
+      "title": "Prêt à Lancer Votre Ligne en",
+      "titleAccent": "Marque Blanche",
+      "titleEnd": "?",
+      "description": "Contactez notre équipe B2B dès aujourd'hui pour discuter de vos besoins et recevoir un devis personnalisé.",
+      "btn": "Obtenir une Consultation Gratuite"
+    }
+  },
+  "Blog": {
+    "index": {
+      "title": "Guides pour les marques beauté qui s’approvisionnent au Maroc",
+      "metaTitle": "Blog : sourcing argan, marque blanche et réglementation",
+      "metaDescription": "Guides pratiques pour les marques beauté et acheteurs : sourcer l’huile d’argan au Maroc, marque blanche, règles UE et USA, certifications et ingrédients marocains.",
+      "intro": "Guides pratiques et honnêtes pour les marques beauté, spas et acheteurs : comment sourcer l’huile d’argan au Maroc, lancer une ligne en marque blanche, comprendre les règles UE et USA, et choisir les bons ingrédients marocains.",
+      "filterAll": "Tous les guides",
+      "latestGuides": "Derniers guides",
+      "viewAllGuides": "Voir tous les guides →",
+      "ctaTitle": "Vous préparez une ligne en marque blanche ?",
+      "ctaPrivateLabel": "Marque blanche",
+      "ctaQuote": "Demander un devis"
+    },
+    "article": {
+      "breadcrumbHome": "Accueil",
+      "breadcrumbBlog": "Blog",
+      "onThisPage": "Sur cette page",
+      "minRead": "{minutes} min de lecture",
+      "readGuide": "Lire le guide",
+      "relatedTitle": "Guides associés",
+      "allGuides": "Tous les guides →",
+      "authorCtaTitle": "Prêt à vous approvisionner au Maroc ?",
+      "authorCtaQuote": "Demander un devis",
+      "authorCtaPrivateLabel": "Marque blanche"
+    },
+    "categories": {
+      "Buying & Sourcing": "Achat et sourcing",
+      "Private Label & Brand Building": "Marque blanche et image de marque",
+      "Regulations & Certifications": "Réglementation et certifications",
+      "Ingredients & Rituals": "Ingrédients et rituels"
+    }
+  },
+  "FAQ": {
+    "metadata": {
+      "title": "FAQ | Cosmétiques marocains en gros et marque blanche",
+      "description": "Réponses sur MOQ, échantillons, tarifs, paiement, certifications, marque blanche, délais et expédition pour l'huile d'argan et les cosmétiques marocains."
+    },
+    "hero": {
+      "title": "Foire aux",
+      "titleAccent": "questions",
+      "description": "Réponses courtes sur les commandes, la marque blanche, les documents qualité et l'expédition pour les acheteurs de cosmétiques marocains."
+    },
+    "sections": {
+      "ordersPricing": "Commandes et tarifs",
+      "privateLabel": "Marque blanche",
+      "qualityCompliance": "Qualité et conformité",
+      "shipping": "Expédition"
+    },
+    "items": {
+      "moq": {
+        "question": "Quelle est votre quantité minimum de commande (MOQ) ?",
+        "answer": "Le MOQ dépend du produit, du conditionnement et du type de commande (gros ou marque blanche). Nous confirmons le minimum par référence dans votre devis."
+      },
+      "samples": {
+        "question": "Envoyez-vous des échantillons ?",
+        "answer": "Oui. Demandez des échantillons via notre formulaire de devis. Nous confirmons le prix, le délai et si le montant peut être déduit de la première commande."
+      },
+      "pricing": {
+        "question": "Comment sont calculés vos prix ?",
+        "answer": "Selon le produit, le grade, le volume, l'emballage et l'Incoterm. Envoyez votre liste de produits et quantités pour un devis exact."
+      },
+      "payment": {
+        "question": "Quels moyens de paiement acceptez-vous ?",
+        "answer": "Le virement bancaire est la norme. PayPal ou Wise peuvent être possibles sur demande. Acompte et solde sont indiqués sur la facture pro forma."
+      },
+      "smallQty": {
+        "question": "Puis-je commencer avec une petite quantité ?",
+        "answer": "Beaucoup de marques démarrent en prêt à étiqueter. Emballage ou formule sur mesure : MOQ plus élevés — nous détaillons les options dans le devis."
+      },
+      "labels": {
+        "question": "Concevez-vous les étiquettes ?",
+        "answer": "Nous adaptons vos visuels au format et vérifions INCI, numéro de lot et quantité nette. Demandez ce qui est inclus dans le devis."
+      },
+      "plLeadTime": {
+        "question": "Combien de temps prend une commande marque blanche ?",
+        "answer": "Le délai commence après validation des visuels et acompte. La production dépend des produits et du packaging ; l'expédition ajoute express ou fret."
+      },
+      "customFormula": {
+        "question": "Pouvez-vous créer une formule sur mesure ?",
+        "answer": "Oui, lorsque le projet correspond à notre gamme. Prévoyez des MOQ et délais plus longs que le prêt à étiqueter."
+      },
+      "organic": {
+        "question": "Vos produits sont-ils certifiés bio ?",
+        "answer": "Le statut bio dépend de l'ingrédient ou du produit fini et des règles de votre marché. Nous confirmons les certificats disponibles avant impression des allégations."
+      },
+      "coaMsds": {
+        "question": "Fournissez-vous COA et FDS ?",
+        "answer": "Oui, pour chaque lot lorsque la documentation lot est incluse dans votre commande."
+      },
+      "crueltyVegan": {
+        "question": "Vos produits sont-ils cruelty-free et vegan ?",
+        "answer": "Beaucoup de lignes sont à base végétale. Le statut vegan et cruelty-free dépend de la formule — nous confirmons par produit dans le devis."
+      },
+      "registration": {
+        "question": "Pouvez-vous aider pour l'enregistrement UE ou US ?",
+        "answer": "Nous fournissons les données techniques (INCI, COA, FDS, spécifications). Le propriétaire de marque effectue la notification ou l'enregistrement."
+      },
+      "countries": {
+        "question": "Vers quels pays expédiez-vous ?",
+        "answer": "USA, UE, UK, GCC et de nombreuses autres destinations. Indiquez votre pays dans la demande de devis."
+      },
+      "deliveryTime": {
+        "question": "Combien de temps prend la livraison ?",
+        "answer": "Le transit dépend du transporteur, du fret aérien ou maritime et de votre région. Nous estimons la livraison dans le devis."
+      },
+      "customs": {
+        "question": "Qui paie les droits de douane ?",
+        "answer": "Selon l'Incoterm. En EXW, FOB et CIF, l'acheteur paie généralement les droits d'importation et taxes locales."
+      }
+    },
+    "cta": {
+      "title": "Vous avez encore des questions ?",
+      "description": "Vous ne trouvez pas la réponse que vous cherchez ? N'hésitez pas à contacter notre équipe et nous vous répondrons dès que possible.",
+      "quoteBtn": "Demander un devis",
+      "btn": "Contacter notre équipe"
+    }
+  },
+  "Contact": {
+    "metadata": {
+      "title": "Contactez-nous | Moroccan Cosmetics - Vente en Gros et Marque Blanche",
+      "description": "Contactez Moroccan Cosmetics pour les tarifs de gros, les services de marque blanche et les demandes de produits. Notre équipe est prête à aider votre marque de soins."
+    },
+    "hero": {
+      "title": "Contactez-",
+      "titleAccent": "Nous",
+      "p1": "Chez Moroccan Cosmetics, nous sommes là pour vous aider avec toutes vos questions sur nos produits de beauté marocains, nos prix de gros et nos services de marque blanche. Que vous lanciez votre propre marque de soins ou que vous vous approvisionniez pour votre magasin, notre équipe est prête à vous aider.",
+      "p2": "Nous proposons une gamme de produits premium, notamment l'huile d'argan, l'huile de pépins de figue de barbarie, le savon noir, et plus encore, tous issus du riche patrimoine cosmétique du Maroc."
+    },
+    "cards": {
+      "whatsapp": {
+        "title": "WhatsApp",
+        "info": "Disponible Lun-Sam, 9h - 18h",
+        "sub": "Cliquez pour discuter"
+      },
+      "email": {
+        "title": "Email",
+        "info": "contact@moroccancosmetics.com",
+        "sub": "Nous répondons sous 24 heures"
+      },
+      "location": {
+        "title": "Localisation",
+        "info": "Agadir, Maroc",
+        "sub": "Centre d'approvisionnement Premium"
+      }
+    },
+    "help": {
+      "title": "Comment pouvons-nous vous aider ?",
+      "item1": "Demander un catalogue de produits ou des tarifs",
+      "item2": "Obtenir de l'aide pour des formules ou des emballages personnalisés",
+      "item3": "Discuter des options d'expédition et de livraison",
+      "item4": "Parler directement via WhatsApp ou Email",
+      "response": "Nous répondons généralement sous 24 heures"
+    },
+    "b2b": {
+      "title": "Fournisseur en Gros et Marque Blanche",
+      "p1": "Grâce à notre vaste expertise dans l'industrie de la beauté, nous apportons une compréhension approfondie des normes mondiales tout en préservant la riche tradition cosmétique du Maroc. Nous fournissons des solutions sur mesure pour les entreprises à la recherche de produits de beauté marocains authentiques et de haute qualité.",
+      "p2": "Des ingrédients emblématiques comme l'huile d'argan, l'huile de pépins de figue de barbarie, le savon noir marocain, à l'eau de rose naturelle, nous proposons une gamme sélectionnée pour répondre aux besoins uniques de nos clients.",
+      "cta": "Commencez votre voyage aujourd'hui"
+    },
+    "form": {
+      "title": "Envoyez-nous un Message",
+      "description": "Veuillez remplir le formulaire ci-dessous et nous vous répondrons dans les plus brefs délais.",
+      "labels": {
+        "name": "Nom Complet",
+        "email": "Adresse Email",
+        "subject": "Sujet",
+        "phone": "Numéro de Téléphone",
+        "message": "Votre Message"
+      },
+      "placeholders": {
+        "name": "Votre Nom",
+        "email": "email@exemple.com",
+        "subject": "Demande de Produits",
+        "phone": "+212 ...",
+        "message": "Comment pouvons-nous vous aider aujourd'hui ?"
+      },
+      "btn": "Envoyer le Message"
+    }
+  },
+  "PrivateLabelPage": {
+    "metadata": {
+      "title": "Cosmétiques marocains en marque blanche pour votre marque | Moroccan Cosmetics",
+      "description": "Lancez votre marque avec huile d'argan, savon noir, rhassoul et plus. Conditionnement, étiquetage et export depuis le Maroc — demandez un devis."
+    },
+    "breadcrumb": {
+      "home": "Accueil",
+      "current": "Marque blanche"
+    },
+    "hero": {
+      "title": "Cosmétiques marocains en marque blanche pour votre marque",
+      "imageAlt": "Argile rhassoul du Maroc pour soins en marque blanche",
+      "introBase": "Huile d'argan, huile de pépins de figue de barbarie, savon noir, argile rhassoul et plus — produits, remplis, étiquetés et expédiés depuis le Maroc sous votre marque.",
+      "introMoqStart": " À partir de {units} pièces par produit",
+      "introMoqCoa": ", avec un certificat d'analyse (COA) pour chaque lot.",
+      "introMoqEnd": ".",
+      "introCoaOnly": " COA disponible pour chaque commande.",
+      "introQuote": " Les quantités de départ sont confirmées dans votre devis.",
+      "ctaQuote": "Demander un devis",
+      "ctaSamples": "Commander un kit d'échantillons"
+    },
+    "chips": {
+      "moqFrom": "MOQ dès {units} pièces",
+      "moqOnRequest": "MOQ : sur demande",
+      "readyIn": "Prêt en {time}",
+      "coaMsds": "COA et FDS pour chaque lot",
+      "shippingCountries": "Expédition vers {count}+ pays"
+    },
+    "config": {
+      "onRequest": "Sur demande",
+      "moqUnits": "{units} pièces par produit",
+      "weeksRange": "{min}-{max} semaines",
+      "weeksSingle": "{min} semaines",
+      "hours": "{hours} heures"
+    },
+    "intro": {
+      "title": "Votre marque, fabriquée à la source",
+      "body": "Nous sommes un fabricant marocain basé à {city}. Nous pressons, remplissons et conditionnons nous-mêmes nos produits : votre ligne en marque blanche vient directement du producteur, pas d'un intermédiaire. Vous savez d'où vient chaque lot, vous obtenez les documents exigés sur votre marché et vous payez des prix usine.",
+      "moqBadge": "MOQ dès {units} pièces par produit (prêt à étiqueter)",
+      "moqNote": "MOQ plus élevés pour emballage ou formule sur mesure — voir Trois façons de démarrer ci-dessous."
+    },
+    "whoIsItFor": {
+      "title": "À qui s'adresse notre service marque blanche",
+      "subtitle": "Nous accompagnons toute une gamme d'acteurs de la beauté pour diffuser les cosmétiques marocains sur leurs marchés.",
+      "audiences": {
+        "newBrands": {
+          "title": "Nouvelles marques",
+          "desc": "Start-ups soin de la peau et cheveux avec de petites premières commandes."
+        },
+        "spas": {
+          "title": "Spas et hammams",
+          "desc": "Qui souhaitent leur propre ligne pro et retail à leur nom."
+        },
+        "online": {
+          "title": "Boutiques en ligne",
+          "desc": "Vendeurs Amazon à la recherche de produits authentiques avec documentation."
+        },
+        "distributors": {
+          "title": "Distributeurs",
+          "desc": "Qui construisent une gamme marocaine pour la grande distribution locale."
+        },
+        "established": {
+          "title": "Marques établies",
+          "desc": "Qui ajoutent argan ou rituel hammam à une gamme existante."
+        }
+      }
+    },
+    "ways": {
+      "title": "Trois façons de démarrer",
+      "subtitle": "Choisissez le niveau de personnalisation adapté à votre budget et à votre calendrier. Vous pouvez commencer par l'option 1 et évoluer avec votre marque.",
+      "moq": "MOQ",
+      "leadTime": "Délai",
+      "footnote": "Les délais commencent après validation des visuels et acompte. Nous confirmons les chiffres exacts dans votre devis.",
+      "level1": {
+        "title": "1. Prêt à étiqueter",
+        "desc": "Notre formule éprouvée + notre flacon ou pot en stock + votre étiquette imprimée."
+      },
+      "level2": {
+        "title": "2. Emballage sur mesure",
+        "desc": "Notre formule éprouvée + le flacon, bouchon, coffret et finition d'impression que vous choisissez."
+      },
+      "level3": {
+        "title": "3. Formule sur mesure",
+        "desc": "Une formule développée ou adaptée pour votre marque (mélanges, parfums, textures)."
+      }
+    },
+    "products": {
+      "title": "Produits que vous pouvez lancer sous votre marque",
+      "subtitle": "Choisissez dans notre catalogue de formules marocaines éprouvées.",
+      "oils": {
+        "title": "Huiles marocaines",
+        "arganTitle": "Huile d'argan cosmétique pure",
+        "arganDesc": "Pressée à froid, non raffinée. 15, 30, 50 et 100 ml. Ce que dit la recherche dans notre guide <link>Bienfaits de l'huile d'argan</link>.",
+        "pricklyTitle": "Huile de pépins de figue de barbarie",
+        "pricklyDesc": "Huile visage premium. 15 et 30 ml.",
+        "blendsTitle": "Mélanges à base d'argan",
+        "blendsDesc": "Huile capillaire, barbe, corps, argan à la rose ou lavande."
+      },
+      "hammam": {
+        "title": "Essentiels hammam",
+        "soapTitle": "Savon noir marocain (savon beldi)",
+        "soapDesc": "Nature, eucalyptus, argan, rose ou nila.",
+        "rhassoulTitle": "Argile rhassoul (ghassoul)",
+        "rhassoulDesc": "Poudre ou masque prêt à l'emploi.",
+        "kessaTitle": "Gants kessa exfoliants",
+        "kessaDesc": "Avec votre étiquette ou cartouche imprimée.",
+        "giftTitle": "Coffrets hammam",
+        "giftDesc": "Savon noir, kessa, rhassoul et petite huile d'argan dans un coffret à votre marque."
+      },
+      "floral": {
+        "title": "Eaux florales",
+        "roseTitle": "Eau de rose marocaine",
+        "roseDesc": "Flacons spray pour toniques et brumes visage."
+      },
+      "powders": {
+        "title": "Poudres traditionnelles",
+        "nilaTitle": "Poudre nila et aker fassi",
+        "nilaDesc": "Pour masques et lignes patrimoniales."
+      },
+      "ctaMissing": "Vous ne voyez pas votre produit ? Dites-nous ce que vous souhaitez créer.",
+      "ctaContact": "Contactez-nous →"
+    },
+    "packaging": {
+      "title": "Options d'emballage",
+      "intro": "Nous recommandons le verre foncé pour les huiles : il les protège de la lumière et les conserve plus longtemps.",
+      "imageAlt": "Flacons en verre et compte-gouttes pour emballage cosmétique marque blanche",
+      "bottlesTitle": "Flacons et pots",
+      "bottlesDesc": "Verre ambré, givré ou transparent ; compte-gouttes, pompe ou spray ; 15 / 30 / 50 / 100 / 200 ml. Pots verre ou PET pour savon, argile et crèmes.",
+      "labelsTitle": "Étiquettes et coffrets",
+      "labelsDesc": "Votre logo et design, imprimés en anglais, français, arabe ou votre langue. Coffrets unitaires, coffrets cadeaux, kraft ou imprimés.",
+      "designTitle": "Aide au design",
+      "designDescIncluded": "Notre équipe adapte vos visuels au format d'étiquette et vérifie que la liste INCI, le numéro de lot et les mentions obligatoires sont prévus. Mise en page d'étiquette incluse dans votre projet.",
+      "designDescAsk": "Notre équipe adapte vos visuels au format d'étiquette et vérifie la liste INCI, le numéro de lot et les mentions obligatoires. Demandez ce qui est inclus dans votre devis."
+    },
+    "howItWorks": {
+      "title": "Comment ça marche",
+      "needFromYouTitle": "Ce dont nous avons besoin :",
+      "needFromYou": "votre logo et design d'étiquette (ou un brief pour notre graphiste), votre marché cible, et le nom et l'adresse de la société figurant sur l'étiquette.",
+      "steps": {
+        "brief": {
+          "title": "Brief",
+          "time": "Jour 1",
+          "desc": "Indiquez-nous produits, quantités, marché cible et budget.",
+          "replyHours": "Nous répondons sous {hours}.",
+          "replyDefault": "Nous répondons le plus vite possible en jours ouvrés."
+        },
+        "samples": {
+          "title": "Échantillons",
+          "time": "Semaine 1-2",
+          "desc": "Vous recevez des échantillons produit et emballage à tester."
+        },
+        "quote": {
+          "title": "Devis et visuels",
+          "time": "Semaine 2-3",
+          "desc": "Nous envoyons un devis détaillé et des maquettes d'étiquettes. Vous validez la facture pro forma."
+        },
+        "production": {
+          "title": "Production",
+          "timeRange": "Semaine {range}",
+          "timeQuote": "Selon devis",
+          "desc": "Remplissage, étiquetage et conditionnement dans notre usine, puis contrôle qualité de chaque lot."
+        },
+        "documents": {
+          "title": "Documents",
+          "time": "Avant expédition",
+          "descFull": "Vous recevez la documentation lot exigée sur votre marché avant expédition (COA, FDS, liste INCI et papiers d'export).",
+          "descBasic": "Vous recevez la documentation lot exigée sur votre marché avant expédition (liste INCI et papiers d'export)."
+        },
+        "shipping": {
+          "title": "Expédition",
+          "time": "Dernière étape",
+          "desc": "Par express, fret aérien ou maritime, vers votre entrepôt ou centre logistique."
+        }
+      }
+    },
+    "regulations": {
+      "title": "Réglementation : qui fait quoi",
+      "subtitle": "Vendre des cosmétiques sous votre marque vous place comme responsable de mise sur le marché, avec des obligations légales. Nous fournissons les données techniques ; vous ou votre représentant gérez les déclarations.",
+      "ownerLabel": "Responsabilité du propriétaire de marque",
+      "provideLabel": "Ce que nous fournissons",
+      "regions": {
+        "eu": {
+          "name": "Union européenne",
+          "owner": "Désigner une personne responsable, constituer le dossier d'information produit et l'évaluation de sécurité, notifier le produit sur le portail CPNP avant mise en vente.",
+          "us": "COA, FDS, liste INCI, spécifications, informations formule pour l'évaluateur de sécurité lorsque inclus dans votre commande."
+        },
+        "uk": {
+          "name": "Royaume-Uni",
+          "owner": "Similaire à l'UE, avec notification sur le portail SCPN.",
+          "us": "Mêmes documents que pour l'UE."
+        },
+        "us": {
+          "name": "États-Unis",
+          "owner": "Respecter les règles FDA pour les cosmétiques, y compris enregistrement d'établissement et listing produit sous MoCRA ; allégations cosmétiques uniquement.",
+          "us": "Mêmes documents, plus les informations sur l'établissement."
+        },
+        "other": {
+          "name": "Autres marchés",
+          "owner": "Vérifiez les règles locales avec votre importateur ou consultant.",
+          "us": "Documents sur demande."
+        }
+      },
+      "claims": "<strong>Les allégations comptent.</strong> Décrivez l'effet sur l'apparence de la peau et des cheveux (« aide la peau à retenir l'hydratation », « dompte les frisottis »). Évitez les allégations médicales (« soigne l'eczéma », « stoppe la chute des cheveux »). Voir notre guide <link>Bienfaits de l'huile d'argan</link> pour une liste « à dire / à éviter »."
+    },
+    "pricing": {
+      "title": "Qu'est-ce qui influence le prix ?",
+      "quoteCta": "Demandez un devis pour des prix unitaires selon votre projet.",
+      "factors": {
+        "product": {
+          "title": "Produit et grade",
+          "desc": "ex. argan bio vs conventionnel."
+        },
+        "packaging": {
+          "title": "Emballage",
+          "desc": "Type de verre, compte-gouttes ou pompe, coffret, finition d'impression."
+        },
+        "quantity": {
+          "title": "Quantité",
+          "desc": "Le prix unitaire baisse nettement avec les volumes."
+        },
+        "customization": {
+          "title": "Personnalisation",
+          "desc": "Niveau 1, 2 ou 3 (prêt à étiqueter vs formule sur mesure)."
+        },
+        "shipping": {
+          "title": "Conditions d'expédition",
+          "desc": "EXW, FOB ou livré à votre adresse."
+        }
+      }
+    },
+    "faq": {
+      "title": "Questions fréquentes",
+      "moq": {
+        "q": "Quelle est la commande minimum en marque blanche ?",
+        "a": "{units} unités par produit pour le prêt à étiqueter. Emballage et formule sur mesure : MOQ plus élevés ; voir le tableau « Trois façons de démarrer »."
+      },
+      "mix": {
+        "q": "Puis-je mélanger plusieurs produits dans une commande ?",
+        "a": "Oui. Chaque produit a son minimum, mais vous pouvez combiner huiles, savons, argiles et eaux florales dans un même envoi."
+      },
+      "leadTime": {
+        "q": "Combien de temps prend une commande marque blanche ?",
+        "aRange": "En général {range} après validation des visuels et acompte, selon l'emballage. Le délai de transport dépend du mode et de la destination.",
+        "aDefault": "Le délai dépend des produits et de l'emballage. Nous confirmons la production dans votre devis après validation des visuels et acompte. Le transport dépend du mode et de la destination."
+      },
+      "samples": {
+        "q": "Puis-je commander des échantillons d'abord ?",
+        "aDefault": "Oui. Contactez-nous pour les options, tarifs et contenu actuels."
+      },
+      "labelDesign": {
+        "q": "Pouvez-vous concevoir mon étiquette ?",
+        "aFull": "Oui. Notre équipe adapte vos visuels et vérifie la liste INCI, le numéro de lot et les mentions obligatoires.",
+        "aBasic": "Nous vérifions toujours que les mentions obligatoires (INCI, lot, quantité nette) ont leur place sur l'étiquette."
+      },
+      "organic": {
+        "q": "Puis-je écrire « bio » sur mon produit ?",
+        "a": "Uniquement si le produit fini respecte les règles bio de votre marché, souvent via une certification du produit fini. Les ingrédients bio seuls ne suffisent pas toujours. Demandez-nous quels certificats nous pouvons fournir avant impression."
+      },
+      "registration": {
+        "q": "Qui enregistre le produit dans mon pays ?",
+        "a": "Vous, en tant que propriétaire de marque, ou votre représentant. Nous fournissons les documents techniques pour CPNP UE, SCPN UK ou listing FDA US lorsque cela s'applique à votre commande."
+      },
+      "payment": {
+        "q": "Quelles conditions de paiement acceptez-vous ?"
+      },
+      "prices": {
+        "q": "Comment sont calculés vos prix ?",
+        "a": "Selon produit et grade, emballage, quantité, niveau de personnalisation et conditions d'expédition (EXW, FOB ou livré). Demandez un devis pour les prix unitaires."
+      }
+    },
+    "finalCta": {
+      "title": "Prêt à lancer votre ligne en marque blanche ?",
+      "body": "Indiquez-nous les produits, quantités et marché visés.",
+      "replyHours": " Vous recevrez un devis et des options d'échantillons sous {hours}.",
+      "replyDefault": " Vous recevrez un devis et les prochaines étapes le plus vite possible."
+    }
+  }
+}

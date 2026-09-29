@@ -1,36 +1,42 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Moroccan Cosmetics
 
-## Getting Started
+B2B website for Moroccan Cosmetics — wholesale argan oil, hammam products, and private label manufacturing. Built with **Next.js 16** (App Router), **next-intl** (EN / FR / AR), and **static export** for cPanel hosting.
 
-First, run the development server:
+## Requirements
+
+- Node.js 20+
+- npm
+
+## Setup
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000/en/](http://localhost:3000/en/) (default locale paths: `/en`, `/fr`, `/ar`).
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Scripts
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+| Command | Description |
+|--------|-------------|
+| `npm run dev` | Development server |
+| `npm run build` | Static export to `out/` (blog check + RSS) |
+| `npm run build:cpanel` | Build + cPanel packaging helper |
+| `npm run lint` | ESLint |
 
-## Learn More
+## Deployment
 
-To learn more about Next.js, take a look at the following resources:
+Static files are generated in `out/`. See [deployment_guide.md](./deployment_guide.md) for cPanel upload and `.htaccess` redirects.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Structure
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- `app/[locale]/` — localized pages
+- `messages/` — UI translations (en, fr, ar)
+- `content/blog/` — blog posts (Markdown)
+- `public/images/` — WebP assets
+- `scripts/` — build and asset utilities
 
-## Deploy on Vercel
+## License
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Private — Moroccan Cosmetics.
