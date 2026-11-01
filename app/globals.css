@@ -434,3 +434,12 @@ html:not(.js-enabled) main * {
   opacity: 1 !important;
   transform: none !important;
 }
+
+/* Hide scrollbar for Chrome, Safari, Edge and Firefox */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}

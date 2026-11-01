@@ -19,6 +19,7 @@ const Footer = () => {
 
   const footerLinks = [
     { href: '/', label: tNav('home') },
+    { href: '/products', label: tNav('products') },
     { href: '/about-us', label: tNav('about') },
     { href: '/benefits', label: tNav('benefits') },
     { href: '/private-label', label: tNav('privateLabel') },

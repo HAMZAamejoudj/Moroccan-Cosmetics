@@ -2,6 +2,7 @@ import { MetadataRoute } from 'next';
 import { getPublishedPosts } from '@/lib/blog/posts';
 import { sitemapDateForPath } from '@/lib/sitemapLastModified';
 import { BLOG_CONTENT_LOCALES } from '@/lib/blog/locales';
+import { productsList } from '@/lib/productsData';
 
 export const dynamic = 'force-static';
 
@@ -10,6 +11,7 @@ const baseUrl = 'https://moroccan-cosmetics.com';
 
 const pages = [
   '',
+  '/products',
   '/about-us',
   '/benefits',
   '/benefits/argan-oil-benefits',
@@ -48,6 +50,27 @@ export default function sitemap(): MetadataRoute.Sitemap {
       });
     });
   });
+
+  const productSlugs = productsList.map((p) => p.slug);
+  for (const slug of productSlugs) {
+    const path = `/products/${slug}`;
+    for (const locale of locales) {
+      sitemapEntries.push({
+        url: `${baseUrl}/${locale}${path}/`,
+        lastModified: new Date(),
+        changeFrequency: 'weekly',
+        priority: 0.9,
+        alternates: {
+          languages: {
+            en: `${baseUrl}/en${path}/`,
+            fr: `${baseUrl}/fr${path}/`,
+            ar: `${baseUrl}/ar${path}/`,
+            'x-default': `${baseUrl}/en${path}/`,
+          },
+        },
+      });
+    }
+  }
 
   const slugs = getPublishedPosts('en').map((p) => p.slug);
   for (const slug of slugs) {

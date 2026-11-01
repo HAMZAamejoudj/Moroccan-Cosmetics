@@ -12,6 +12,9 @@ const nextConfig: NextConfig = {
   images: {
     unoptimized: true, // Required for static export / basic hosting
   },
+  turbopack: {
+    root: __dirname,
+  },
 };
 
 export default withNextIntl(nextConfig);
