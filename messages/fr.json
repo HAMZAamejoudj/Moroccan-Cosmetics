@@ -25,9 +25,12 @@
     "heroImageAlt": "Produits cosmétiques marocains en gros : huile d'argan, savon noir et eau de rose"
   },
   "HomeTrustBar": {
-    "ariaLabel": "Expédition et service",
+    "ariaLabel": "Certifications et avantages grossiste",
+    "certified": "Certifié",
     "shipping": "Expédition mondiale",
-    "marketingClaims": []
+    "crueltyFree": "Sans cruauté · Vegan",
+    "moq": "MOQ flexible",
+    "organic": "Bio"
   },
   "Home": {
     "metadata": {

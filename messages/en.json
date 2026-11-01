@@ -25,14 +25,12 @@
     "heroImageAlt": "Moroccan wholesale cosmetic products including argan oil, black soap and rose water"
   },
   "HomeTrustBar": {
-    "ariaLabel": "Shipping and service",
+    "ariaLabel": "Certifications and wholesale benefits",
+    "certified": "Certified",
     "shipping": "Worldwide Shipping",
-    "marketingClaims": [
-      "Certified",
-      "Organic",
-      "Cruelty-Free · Vegan",
-      "Low MOQ Available"
-    ]
+    "crueltyFree": "Cruelty-Free · Vegan",
+    "moq": "Low MOQ Available",
+    "organic": "Organic"
   },
   "Home": {
     "metadata": {

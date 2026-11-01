@@ -25,9 +25,12 @@
     "heroImageAlt": "منتجات تجميل مغربية بالجملة: زيت الأركان، الصابون الأسود وماء الورد"
   },
   "HomeTrustBar": {
-    "ariaLabel": "الشحن والخدمة",
+    "ariaLabel": "الشهادات ومزايا الجملة",
+    "certified": "معتمد",
     "shipping": "شحن عالمي",
-    "marketingClaims": []
+    "crueltyFree": "خالٍ من التجارب · نباتي",
+    "moq": "حد أدنى مرن",
+    "organic": "عضوي"
   },
   "Home": {
     "metadata": {
